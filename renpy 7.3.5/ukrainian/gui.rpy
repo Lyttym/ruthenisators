@@ -128,7 +128,7 @@ translate ukrainian strings:
 
     # gui/game/gui.rpy:111
     old "## The horizontal alignment of the character's name. This can be 0.0 for left-aligned, 0.5 for centered, and 1.0 for right-aligned."
-    new "## Поземне вирівнювання імени особи. Це може бути 0,0 для вирівнювання зліва, 0,5 для середини та 1,0 для правого вирівнювання."
+    new "## Горизонтальне вирівнювання імени особи. Це може бути 0,0 для вирівнювання зліва, 0,5 для середини та 1,0 для правого вирівнювання."
 
     # gui/game/gui.rpy:115
     old "## The width, height, and borders of the box containing the character's name, or None to automatically size it."
@@ -148,11 +148,11 @@ translate ukrainian strings:
 
     # gui/game/gui.rpy:135
     old "## The maximum width of dialogue text, in pixels."
-    new "## Найбільша ширина тексту розмови в цятинках."
+    new "## Найбільша ширина тексту розмови в пікселях."
 
     # gui/game/gui.rpy:138
     old "## The horizontal alignment of the dialogue text. This can be 0.0 for left-aligned, 0.5 for centered, and 1.0 for right-aligned."
-    new "## Поземне вирівнювання тексту розмови. Це може бути 0,0 для вирівнювання зліва, 0,5 для середини та 1,0 для правого вирівнювання."
+    new "## Горизонтальне вирівнювання тексту розмови. Це може бути 0,0 для вирівнювання зліва, 0,5 для середини та 1,0 для правого вирівнювання."
 
     # gui/game/gui.rpy:143
     old "## Buttons"
@@ -164,7 +164,7 @@ translate ukrainian strings:
 
     # gui/game/gui.rpy:148
     old "## The width and height of a button, in pixels. If None, Ren'Py computes a size."
-    new "## Ширина та висота кнопки в цятинках. Якщо немає, Ren'Py обчислює розмір."
+    new "## Ширина та висота кнопки в пікселях. Якщо None, Ren'Py обчислює розмір."
 
     # gui/game/gui.rpy:152
     old "## The borders on each side of the button, in left, top, right, bottom order."
@@ -172,7 +172,7 @@ translate ukrainian strings:
 
     # gui/game/gui.rpy:155
     old "## If True, the background image will be tiled. If False, the background image will be linearly scaled."
-    new "## Якщо True, тлове зображення буде викладено плиткою. Якщо False, тлове зображення буде масштабуватися смужно."
+    new "## Якщо True, тлове зображення буде моститися. Якщо False, тлове зображення буде масштабуватися смужно."
 
     # gui/game/gui.rpy:159
     old "## The font used by the button."
@@ -188,7 +188,7 @@ translate ukrainian strings:
 
     # gui/game/gui.rpy:171
     old "## The horizontal alignment of the button text. (0.0 is left, 0.5 is center, 1.0 is right)."
-    new "## Поземне вирівнювання тексту кнопки. (0,0 зліва, 0,5 - центр, 1,0 - справа)."
+    new "## Горизонтальне вирівнювання тексту кнопки. (0,0 зліва, 0,5 - центр, 1,0 - справа)."
 
     # gui/game/gui.rpy:176
     old "## These variables override settings for different kinds of buttons. Please see the gui documentation for the kinds of buttons available, and what each is used for."
@@ -196,7 +196,7 @@ translate ukrainian strings:
 
     # gui/game/gui.rpy:180
     old "## These customizations are used by the default interface:"
-    new "## Ці кастомізації використовуються інтерфейсом усталено ???:"
+    new "## Ці налаштування використовуються усталеним інтерфейсом:"
 
     # gui/game/gui.rpy:195
     old "## You can also add your own customizations, by adding properly-named variables. For example, you can uncomment the following line to set the width of a navigation button."
@@ -304,11 +304,11 @@ translate ukrainian strings:
 
     # gui/game/gui.rpy:297
     old "## Should frame backgrounds be tiled?"
-    new "## Якщо тла рамки повинні бути оброблені плиткою? ???"
+    new "## Чи мають тла рамок моститися"
 
     # gui/game/gui.rpy:301
     old "## Bars, Scrollbars, and Sliders"
-    new "## Бари, смуги прокрутки та повзунки ???"
+    new "## Панелі, смуги прокрутки та повзунки"
 
     # gui/game/gui.rpy:303
     old "## These control the look and size of bars, scrollbars, and sliders."

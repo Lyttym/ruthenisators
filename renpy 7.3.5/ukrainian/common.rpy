@@ -8,7 +8,7 @@ translate ukrainian strings:
 
     # renpy/common/00accessibility.rpy:29
     old "Clipboard voicing enabled. "
-    new "Clipboard voicing enabled ???. "
+    new "Синтез мовлення з буферу обміну увімкнено. "
 
     # renpy/common/00accessibility.rpy:30
     old "Self-voicing enabled. "
@@ -28,19 +28,19 @@ translate ukrainian strings:
 
     # renpy/common/00accessibility.rpy:35
     old "horizontal scroll"
-    new "поземе прокручування"
+    new "горизонтальне прокручування"
 
     # renpy/common/00accessibility.rpy:36
     old "vertical scroll"
-    new "прямовисне прокручування"
+    new "вертикальне прокручування"
 
     # renpy/common/00accessibility.rpy:37
     old "activate"
-    new "увімкнути"
+    new "задіяти"
 
     # renpy/common/00accessibility.rpy:38
     old "deactivate"
-    new "вимкнути"
+    new "знедіяти"
 
     # renpy/common/00accessibility.rpy:39
     old "increase"
@@ -76,11 +76,11 @@ translate ukrainian strings:
 
     # renpy/common/00accessibility.rpy:157
     old "Line Spacing Scaling"
-    new "Масштабування міжрядкових смуг ???"
+    new "Масштабування міжрядкового інтервалу"
 
     # renpy/common/00accessibility.rpy:169
     old "Self-Voicing"
-    new "Self-Voicing ???"
+    new "Озвучення синтезом мовлення"
 
     # renpy/common/00accessibility.rpy:173
     old "Off"
@@ -100,7 +100,7 @@ translate ukrainian strings:
 
     # renpy/common/00accessibility.rpy:191
     old "The options on this menu are intended to improve accessibility. They may not work with all games, and some combinations of options may render the game unplayable. This is not an issue with the game or engine. For the best results when changing fonts, try to keep the text size the same as it originally was."
-    new "Настройки цього меню призначені для покращення доступності. Вони можуть працювати не з усіма іграми, а деякі сполуки відмін можуть зробити гру неможливою. Це не проблема з грою чи рушієм. Для найкращих результатів при зміні написів намагайтеся зберегти розмір тексту таким, яким він був раніше ???."
+    new "Параметри цього меню призначені для збільшення доступності. Вони можуть працювати не з усіма іграми, а деякі сполучення опцій можуть зробити відображення гри некоректним. Це не проблема з грою чи рушієм. Для досягнення найкращих результатів за зміни шрифтів намагайтеся зберігати розмір тексту таким, яким він був спочатку."
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Monday"
@@ -272,11 +272,11 @@ translate ukrainian strings:
 
     # renpy/common/00action_file.rpy:569
     old "File page auto"
-    new "Сторінка файлів самочинних"
+    new "Сторінка автофайлів"
 
     # renpy/common/00action_file.rpy:571
     old "File page quick"
-    new "Сторінка файлів швидких"
+    new "Сторінка швидких файлів"
 
     # renpy/common/00action_file.rpy:573
     old "File page [text]"
@@ -308,7 +308,7 @@ translate ukrainian strings:
 
     # renpy/common/00director.rpy:708
     old "The interactive director is not enabled here."
-    new "The interactive director is not enabled here ???."
+    new "Інтерактивний директор тут недоступний."
 
     # renpy/common/00director.rpy:1481
     old "⬆"
@@ -324,31 +324,31 @@ translate ukrainian strings:
 
     # renpy/common/00director.rpy:1561
     old "(statement)"
-    new "(statement)"
+    new "(функція)"
 
     # renpy/common/00director.rpy:1562
     old "(tag)"
-    new "(tag)"
+    new "(теґ)"
 
     # renpy/common/00director.rpy:1563
     old "(attributes)"
-    new "(attributes)"
+    new "(атрибути)"
 
     # renpy/common/00director.rpy:1564
     old "(transform)"
-    new "(transform)"
+    new "(перетворення)"
 
     # renpy/common/00director.rpy:1589
     old "(transition)"
-    new "(transition)"
+    new "(перехід)"
 
     # renpy/common/00director.rpy:1601
     old "(channel)"
-    new "(channel)"
+    new "(канал)"
 
     # renpy/common/00director.rpy:1602
     old "(filename)"
-    new "(filename)"
+    new "(назва файлу)"
 
     # renpy/common/00director.rpy:1631
     old "Change"
@@ -368,7 +368,7 @@ translate ukrainian strings:
 
     # renpy/common/00director.rpy:1674
     old "Statement:"
-    new "Оператор: ???"
+    new "Функціх"
 
     # renpy/common/00director.rpy:1695
     old "Tag:"
@@ -376,11 +376,11 @@ translate ukrainian strings:
 
     # renpy/common/00director.rpy:1711
     old "Attributes:"
-    new "Атрибути: ???"
+    new "Атрибути:"
 
     # renpy/common/00director.rpy:1729
     old "Transforms:"
-    new "Перетворення: ???"
+    new "Перетворення:"
 
     # renpy/common/00director.rpy:1748
     old "Behind:"
@@ -400,7 +400,7 @@ translate ukrainian strings:
 
     # renpy/common/00gui.rpy:371
     old "Are you sure?"
-    new "Ви упевнені?"
+    new "Ви впевнені?"
 
     # renpy/common/00gui.rpy:372
     old "Are you sure you want to delete this save?"
@@ -456,7 +456,7 @@ translate ukrainian strings:
 
     # renpy/common/00preferences.rpy:233
     old "display"
-    new "дисплей ???"
+    new "дисплей"
 
     # renpy/common/00preferences.rpy:245
     old "transitions"
@@ -468,7 +468,7 @@ translate ukrainian strings:
 
     # renpy/common/00preferences.rpy:256
     old "video sprites"
-    new "відео спрайти ???"
+    new "відеоспрайти"
 
     # renpy/common/00preferences.rpy:265
     old "show empty window"
@@ -480,11 +480,11 @@ translate ukrainian strings:
 
     # renpy/common/00preferences.rpy:282
     old "joystick"
-    new "джойстик ???"
+    new "джойстик"
 
     # renpy/common/00preferences.rpy:282
     old "joystick..."
-    new "джойстик... ???"
+    new "джойстик..."
 
     # renpy/common/00preferences.rpy:289
     old "skip"
@@ -512,15 +512,15 @@ translate ukrainian strings:
 
     # renpy/common/00preferences.rpy:312
     old "auto-forward time"
-    new "час самочитання ???"
+    new "швидкість самочитання"
 
     # renpy/common/00preferences.rpy:326
     old "auto-forward"
-    new "самочитання ???"
+    new "самочитання"
 
     # renpy/common/00preferences.rpy:333
     old "Auto forward"
-    new "Самочитання ???"
+    new "Самочитання"
 
     # renpy/common/00preferences.rpy:336
     old "auto-forward after click"
@@ -540,39 +540,39 @@ translate ukrainian strings:
 
     # renpy/common/00preferences.rpy:372
     old "self voicing"
-    new "самозвучання ???"
+    new "синтез мовлення"
 
     # renpy/common/00preferences.rpy:381
     old "clipboard voicing"
-    new "clipboard voicing"
+    new "синтез мовлення з буфера обміну"
 
     # renpy/common/00preferences.rpy:390
     old "debug voicing"
-    new "debug voicing"
+    new "режим Відлагодження синтезу мовлення"
 
     # renpy/common/00preferences.rpy:399
     old "emphasize audio"
-    new "emphasize audio"
+    new "посилити гучність заздалегідь заданих звукових каналів за рахунок приглушення інших каналів"
 
     # renpy/common/00preferences.rpy:408
     old "rollback side"
-    new "rollback side"
+    new "сторона відкату"
 
     # renpy/common/00preferences.rpy:418
     old "gl powersave"
-    new "gl powersave"
+    new "Налаштування ґрафіки: економія енергії"
 
     # renpy/common/00preferences.rpy:424
     old "gl framerate"
-    new "gl framerate"
+    new "Налаштування ґрафіки: частота кадрів"
 
     # renpy/common/00preferences.rpy:427
     old "gl tearing"
-    new "gl tearing"
+    new "Налаштування ґрафіки: розривання кадрів"
 
     # renpy/common/00preferences.rpy:430
     old "font transform"
-    new "font transform"
+    new "перетворення шрифту"
 
     # renpy/common/00preferences.rpy:433
     old "font size"
@@ -580,47 +580,47 @@ translate ukrainian strings:
 
     # renpy/common/00preferences.rpy:441
     old "font line spacing"
-    new "font line spacing"
+    new "міжрядковий інтервал"
 
     # renpy/common/00preferences.rpy:460
     old "music volume"
-    new "music volume"
+    new "гучність музики"
 
     # renpy/common/00preferences.rpy:461
     old "sound volume"
-    new "sound volume"
+    new "гучність звуку"
 
     # renpy/common/00preferences.rpy:462
     old "voice volume"
-    new "voice volume"
+    new "гучність голосу"
 
     # renpy/common/00preferences.rpy:463
     old "mute music"
-    new "mute music"
+    new "без музики"
 
     # renpy/common/00preferences.rpy:464
     old "mute sound"
-    new "mute sound"
+    new "без звуку"
 
     # renpy/common/00preferences.rpy:465
     old "mute voice"
-    new "mute voice"
+    new "без голосу"
 
     # renpy/common/00preferences.rpy:466
     old "mute all"
-    new "mute all"
+    new "вимкнути всі звуки"
 
     # renpy/common/00preferences.rpy:547
     old "Clipboard voicing enabled. Press 'shift+C' to disable."
-    new "Clipboard voicing enabled. Press 'shift+C' to disable."
+    new "Синтез мовлення з буфера обміну ввімкнено. Натисніть 'shift+C' щоб вимкнути."
 
     # renpy/common/00preferences.rpy:549
     old "Self-voicing would say \"[renpy.display.tts.last]\". Press 'alt+shift+V' to disable."
-    new "Self-voicing would say \"[renpy.display.tts.last]\". Press 'alt+shift+V' to disable."
+    new "Синтез мовлення має сказати \"[renpy.display.tts.last]\". Натисніть 'alt+shift+V', щоб вимкнути."
 
     # renpy/common/00preferences.rpy:551
     old "Self-voicing enabled. Press 'v' to disable."
-    new "Self-voicing enabled. Press 'v' to disable."
+    new "Синтез мовлення увімкнено. Натисніть 'v' для вимкнення."
 
     # renpy/common/_compat/gamemenu.rpym:198
     old "Empty Slot."
@@ -636,7 +636,7 @@ translate ukrainian strings:
 
     # renpy/common/_compat/preferences.rpym:428
     old "Joystick Mapping"
-    new "Joystick Mapping"
+    new "Розкладка джойстика"
 
     # renpy/common/_developer/developer.rpym:38
     old "Developer Menu"
@@ -644,7 +644,7 @@ translate ukrainian strings:
 
     # renpy/common/_developer/developer.rpym:43
     old "Interactive Director (D)"
-    new "Interactive Director (D)"
+    new "Інтерактивний директор (D)"
 
     # renpy/common/_developer/developer.rpym:45
     old "Reload Game (Shift+R)"
@@ -668,15 +668,15 @@ translate ukrainian strings:
 
     # renpy/common/_developer/developer.rpym:57
     old "Show Image Load Log (F4)"
-    new "Показати часопис завантаження зображень (F4)"
+    new "Показати журнал завантаження зображень (F4)"
 
     # renpy/common/_developer/developer.rpym:60
     old "Hide Image Load Log (F4)"
-    new "Сховати часопис завантаження зображень (F4)"
+    new "Сховати журнал завантаження зображень (F4)"
 
     # renpy/common/_developer/developer.rpym:63
     old "Image Attributes"
-    new "Атрибути зображення ???"
+    new "Атрибути зображення"
 
     # renpy/common/_developer/developer.rpym:90
     old "[name] [attributes] (hidden)"
@@ -688,7 +688,7 @@ translate ukrainian strings:
 
     # renpy/common/_developer/developer.rpym:143
     old "Nothing to inspect."
-    new "Nothing to inspect."
+    new "Змінні не задано."
 
     # renpy/common/_developer/developer.rpym:154
     old "Hide deleted"
@@ -708,11 +708,11 @@ translate ukrainian strings:
 
     # renpy/common/_developer/developer.rpym:448
     old "Mouse position: %r"
-    new "Місцезнаходження миші: %r"
+    new "Розташування миші: %r"
 
     # renpy/common/_developer/developer.rpym:453
     old "Right-click or escape to quit."
-    new "Right-click or escape to quit."
+    new "Натисніть праву кнопку миші чи Escape для виходу."
 
     # renpy/common/_developer/developer.rpym:485
     old "Rectangle copied to clipboard."
@@ -720,19 +720,19 @@ translate ukrainian strings:
 
     # renpy/common/_developer/developer.rpym:488
     old "Position copied to clipboard."
-    new "Місцезнаходження скопійовано в буфер обміну."
+    new "Розташування скопійовано в буфер обміну."
 
     # renpy/common/_developer/developer.rpym:507
     old "Type to filter: "
-    new "Введіть для відбору: ???"
+    new "Поточний фільтр:"
 
     # renpy/common/_developer/developer.rpym:635
     old "Textures: [tex_count] ([tex_size_mb:.1f] MB)"
-    new "Текстури: [tex_count] ([tex_size_mb:.1f] MB)"
+    new "Текстури: [tex_count] ([tex_size_mb:.1f] Мб)"
 
     # renpy/common/_developer/developer.rpym:639
     old "Image cache: [cache_pct:.1f]% ([cache_size_mb:.1f] MB)"
-    new "Кеш зображення ???: [cache_pct:.1f]% ([cache_size_mb:.1f] MB)"
+    new "Кеш зображення: [cache_pct:.1f]% ([cache_size_mb:.1f] Мб)"
 
     # renpy/common/_developer/developer.rpym:649
     old "✔ "
@@ -748,7 +748,7 @@ translate ukrainian strings:
 
     # renpy/common/_developer/inspector.rpym:38
     old "Displayable Inspector"
-    new "Displayable Inspector"
+    new "Розпорядник об'єктів"
 
     # renpy/common/_developer/inspector.rpym:61
     old "Size"
@@ -764,31 +764,31 @@ translate ukrainian strings:
 
     # renpy/common/_developer/inspector.rpym:122
     old "Inspecting Styles of [displayable_name!q]"
-    new "Inspecting Styles of [displayable_name!q]"
+    new "Інспектування стилів [displayable_name!q]"
 
     # renpy/common/_developer/inspector.rpym:139
     old "displayable:"
-    new "displayable:"
+    new "об'єкт:"
 
     # renpy/common/_developer/inspector.rpym:145
     old "        (no properties affect the displayable)"
-    new "        (no properties affect the displayable)"
+    new "        (на об'єкт не впливають жодні параметри)"
 
     # renpy/common/_developer/inspector.rpym:147
     old "        (default properties omitted)"
-    new "        (default properties omitted)"
+    new "        (усталено налаштування опущено)"
 
     # renpy/common/_developer/inspector.rpym:185
     old "<repr() failed>"
-    new "<repr() failed>"
+    new "<repr() не вдалося>"
 
     # renpy/common/_layout/classic_load_save.rpym:170
     old "a"
-    new "a"
+    new "а"
 
     # renpy/common/_layout/classic_load_save.rpym:179
     old "q"
-    new "q"
+    new "б"
 
     # renpy/common/00iap.rpy:217
     old "Contacting App Store\nPlease Wait..."
@@ -804,7 +804,7 @@ translate ukrainian strings:
 
     # renpy/common/00updater.rpy:678
     old "Either this project does not support updating, or the update status file was deleted."
-    new "Або цей проект не підтримує оновлення, або файл стану оновлення видалено."
+    new "Або цей проєкт не підтримує оновлення, або файл стану оновлення видалено."
 
     # renpy/common/00updater.rpy:692
     old "This account does not have permission to perform an update."
@@ -812,7 +812,7 @@ translate ukrainian strings:
 
     # renpy/common/00updater.rpy:695
     old "This account does not have permission to write the update log."
-    new "Цей обліковий запис не має дозволу на запис часопису оновлень."
+    new "Цей обліковий запис не має дозволу на запис журналу оновлень."
 
     # renpy/common/00updater.rpy:722
     old "Could not verify update signature."
@@ -828,7 +828,7 @@ translate ukrainian strings:
 
     # renpy/common/00updater.rpy:1071
     old "While unpacking {}, unknown type {}."
-    new "While unpacking {}, unknown type {}."
+    new "Розпаковуючи {}, знайдено невідомий вид {}."
 
     # renpy/common/00updater.rpy:1439
     old "Updater"
@@ -880,7 +880,7 @@ translate ukrainian strings:
 
     # renpy/common/00gallery.rpy:614
     old "slideshow"
-    new "слайд-шоу ???"
+    new "показ слайдів"
 
     # renpy/common/00gallery.rpy:615
     old "return"

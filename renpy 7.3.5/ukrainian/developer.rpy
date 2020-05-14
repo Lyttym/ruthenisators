@@ -20,7 +20,7 @@ translate ukrainian strings:
 
     # renpy/common/00console.rpy:531
     old "commands:\n"
-    new "дієвкази:\n"
+    new "команди:\n"
 
     # renpy/common/00console.rpy:541
     old " <renpy script statement>: run the statement\n"
@@ -32,7 +32,7 @@ translate ukrainian strings:
 
     # renpy/common/00console.rpy:551
     old "clear: clear the console history"
-    new "clear: очищує дієпис консолі"
+    new "clear: очищує історію консолі"
 
     # renpy/common/00console.rpy:555
     old "exit: exit the console"

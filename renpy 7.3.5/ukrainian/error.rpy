@@ -8,7 +8,7 @@ translate ukrainian strings:
 
     # renpy/common/00gltest.rpy:74
     old "Automatically Choose"
-    new "Самочинно обирати"
+    new "Автоматично обирати"
 
     # renpy/common/00gltest.rpy:79
     old "Force Angle/DirectX Renderer"
@@ -20,19 +20,19 @@ translate ukrainian strings:
 
     # renpy/common/00gltest.rpy:87
     old "Force Software Renderer"
-    new "Примусово використовувати програмний відмальовувач"
+    new "Примусово використовувати проґрамний відмальовувач"
 
     # renpy/common/00gltest.rpy:93
     old "NPOT"
-    new "NPOT???"
+    new "NPOT (OpenGL 2+)"
 
     # renpy/common/00gltest.rpy:97
     old "Enable"
-    new "Увімкнути"
+    new "Увімкнено"
 
     # renpy/common/00gltest.rpy:131
     old "Powersave"
-    new "Енергозбереження"
+    new "Економія енергії"
 
     # renpy/common/00gltest.rpy:145
     old "Framerate"
@@ -52,39 +52,39 @@ translate ukrainian strings:
 
     # renpy/common/00gltest.rpy:163
     old "Tearing"
-    new "Розрив"
+    new "Розривання кадрів"
 
     # renpy/common/00gltest.rpy:179
     old "Changes will take effect the next time this program is run."
-    new "Зміни набудуть чинности наступного разу, коли ця програма буде запущена."
+    new "Зміни набудуть чинності наступного разу, коли ця проґрама буде запущена."
     
     # renpy/common/00gltest.rpy:213
     old "Performance Warning"
-    new "Попередження про виконання ??? "
+    new "Попередження Плідності"
 
     # renpy/common/00gltest.rpy:218
     old "This computer is using software rendering."
-    new "Цей обчислювач використовує програмне відмальовування."
+    new "Цей комп'ютер використовує проґрамне відмальовування."
 
     # renpy/common/00gltest.rpy:220
     old "This computer is not using shaders."
-    new "Цей обчислювач не використовує шейдери."
+    new "Цей комп'ютер не використовує шейдери."
 
     # renpy/common/00gltest.rpy:222
     old "This computer is displaying graphics slowly."
-    new "Цей обчислювач повільно відображає графіку."
+    new "Цей комп'ютер повільно відображає ґрафіку."
 
     # renpy/common/00gltest.rpy:224
     old "This computer has a problem displaying graphics: [problem]."
-    new "Цей обчислювач має проблему із відображенням графіки: [problem]."
+    new "Цей комп'ютер має проблему з відображенням ґрафіки: [problem]."
 
     # renpy/common/00gltest.rpy:229
     old "Its graphics drivers may be out of date or not operating correctly. This can lead to slow or incorrect graphics display. Updating DirectX could fix this problem."
-    new "Ці графічні драйвери можуть бути застарілими або не працюють належним чином. Це може призвести до повільного або неправильного відображення графіки. Оновлення DirectX може усунути цю проблему."
+    new "Ці ґрафічні драйвери можуть бути застарілими або не працюють належним чином. Це може призвести до повільного або неправильного відображення ґрафіки. Оновлення DirectX може усунути цю проблему."
 
     # renpy/common/00gltest.rpy:231
     old "Its graphics drivers may be out of date or not operating correctly. This can lead to slow or incorrect graphics display."
-    new "Ці графічні драйвери можуть бути застарілими або не працюють належним чином. Це може призвести до повільного або неправильного відображення графіки."
+    new "Ці ґрафічні драйвери можуть бути застарілими або не працюють належним чином. Це може призвести до повільного або неправильного відображення ґрафіки."
 
     # renpy/common/00gltest.rpy:236
     old "Update DirectX"
@@ -108,11 +108,11 @@ translate ukrainian strings:
 
     # renpy/common/00gltest.rpy:272
     old "{b}Note:{/b} Microsoft's DirectX web setup program will, by default, install the Bing toolbar. If you do not want this toolbar, uncheck the appropriate box."
-    new "{b}Примітка:{/b} Програма веб-налаштування DirectX від Microsoft усталено встановить панель знарядь Bing. Якщо ви не хочете цієї панелі знарядь, зніміть прапорець у відповідному полі."
+    new "{b}Примітка:{/b} Проґрама веб-налаштування DirectX від Microsoft усталено встановить панель інструментів Bing. Якщо ви не хочете цієї панелі інструментів, зніміть прапорець у відповідному полі."
 
     # renpy/common/00gltest.rpy:276
     old "When setup finishes, please click below to restart this program."
-    new "Після завершення встановлення натисніть кнопку нижче, щоб перезапустити цю програму."
+    new "Після завершення встановлення натисніть кнопку нижче, щоб перезапустити цю проґраму."
 
     # renpy/common/00gltest.rpy:278
     old "Restart"
@@ -120,11 +120,11 @@ translate ukrainian strings:
 
     # renpy/common/00gamepad.rpy:32
     old "Select Gamepad to Calibrate"
-    new "Оберіть пристрій введення для калібрування ??? "
+    new "Оберіть ґеймпад введення для калібрування"
 
     # renpy/common/00gamepad.rpy:35
     old "No Gamepads Available"
-    new "Немає доступних пристроїв введення ??? "
+    new "Немає доступних ґеймпадів"
 
     # renpy/common/00gamepad.rpy:54
     old "Calibrating [name] ([i]/[total])"
@@ -148,7 +148,7 @@ translate ukrainian strings:
 
     # renpy/common/_errorhandling.rpym:540
     old "Opens the traceback.txt file in a text editor."
-    new "Відкриває файл traceback.txt у текстовому редагувачі."
+    new "Відкриває файл traceback.txt у текстовому редакторі."
 
     # renpy/common/_errorhandling.rpym:542
     old "Copy BBCode"
@@ -216,7 +216,7 @@ translate ukrainian strings:
 
     # renpy/common/_errorhandling.rpym:679
     old "Opens the errors.txt file in a text editor."
-    new "Відкриває файл error.txt у текстовому редагувачі."
+    new "Відкриває файл error.txt у текстовому редакторі."
 
     # renpy/common/_errorhandling.rpym:683
     old "Copies the errors.txt file to the clipboard as BBcode for forums like https://lemmasoft.renai.us/."

@@ -20,11 +20,11 @@ translate ukrainian strings:
 
     # game/add_file.rpy:37
     old "The file name may not be empty."
-    new "Ім'я файлу не може бути порожнім."
+    new "Назва файлу не може бути порожньою."
 
     # game/add_file.rpy:41
     old "The filename must have the .rpy extension."
-    new "Ім'я файлу повинно мати назвошир .rpy."
+    new "Назва файлу повинно мати розширення .rpy."
 
     # game/add_file.rpy:50
     old "The file already exists."
@@ -32,7 +32,7 @@ translate ukrainian strings:
 
     # game/add_file.rpy:61
     old "# Ren'Py automatically loads all script files ending with .rpy. To use this\n# file, define a label and jump to it from another file.\n"
-    new "# Ren'Py самочинно завантажує всі файли сценаріїв з назвоширом .rpy. Щоб скористатися цим\n# файлом, визначте мітку та перейдіть до неї з іншого файлу.\n"
+    new "# Ren'Py самочинно завантажує всі файли сценаріїв з розширенням .rpy. Щоб скористатися цим\n# файлом, визначте мітку та перейдіть до неї з іншого файлу.\n"
 
     # game/android.rpy:30
     old "To build Android packages, please download RAPT, unzip it, and place it into the Ren'Py directory. Then restart the Ren'Py launcher."
@@ -44,11 +44,11 @@ translate ukrainian strings:
 
     # game/android.rpy:32
     old "RAPT has been installed, but you'll need to install the Android SDK before you can build Android packages. Choose Install SDK to do this."
-    new "RAPT встановлено, але вам потрібно буде встановити Android SDK, перш ніж ви зможете створити пакети Android. Для цього виберіть Встановити SDK."
+    new "RAPT встановлено, але вам потрібно буде встановити Android SDK, перш ніж ви зможете створити пакунки Android. Для цього виберіть Встановити SDK."
 
     # game/android.rpy:33
     old "RAPT has been installed, but a key hasn't been configured. Please create a new key, or restore android.keystore."
-    new "RAPT встановлений, але ключ не налаштований. Створіть новий ключ або відновіть android.keystore."
+    new "RAPT встановлено, але ключ не налаштований. Створіть новий ключ або відновіть android.keystore."
 
     # game/android.rpy:34
     old "The current project has not been configured. Use \"Configure\" to configure it before building."
@@ -56,7 +56,7 @@ translate ukrainian strings:
 
     # game/android.rpy:35
     old "Choose \"Build\" to build the current project, or attach an Android device and choose \"Build & Install\" to build and install it on the device."
-    new "Оберіть \"Зібрати\" щоб скласти поточний проєкт або приєднати пристрій Android і вибрати \"Зібрати & Встановити\" щоб скласти та встановити його на пристрої."
+    new "Оберіть \"Скласти\" щоб скласти поточний проєкт або приєднати пристрій Android і вибрати \"Скласти & Встановити\" щоб скласти та встановити його на пристрої."
 
     # game/android.rpy:37
     old "Attempts to emulate an Android phone.\n\nTouch input is emulated through the mouse, but only when the button is held down. Escape is mapped to the menu button, and PageUp is mapped to the back button."
@@ -80,7 +80,7 @@ translate ukrainian strings:
 
     # game/android.rpy:43
     old "Opens the file containing the Google Play keys in the editor.\n\nThis is only needed if the application is using an expansion APK. Read the documentation for more details."
-    new "Відкриває файл, що містить ключі Google Play у редагувачі.\n\nЦе потрібно лише в тому випадку, якщо програма використовує розширення APK. Прочитайте документацію для отримання більш докладних відомостей."
+    new "Відкриває файл, що містить ключі Google Play в редакторі.\n\nЦе потрібно лише в тому випадку, якщо проґрама використовує розширення APK. Прочитайте документацію для отримання більш докладних відомостей."
 
     # game/android.rpy:44
     old "Builds the Android package."
@@ -96,15 +96,15 @@ translate ukrainian strings:
 
     # game/android.rpy:48
     old "Retrieves the log from the Android device and writes it to a file."
-    new "Отримує часопис з пристрою Android і записує його у файл."
+    new "Отримує журнал з пристрою Android і записує його у файл."
 
     # game/android.rpy:50
     old "Selects the Debug build, which can be accessed through Android Studio. Changing between debug and release builds requires an uninstall from your device."
-    new "Вибирає збірку відлагодження, доступ до якої можна отримати через Android Studio. Для зміни відлагодження та випуску збірки потрібне видалення з вашого пристрою."
+    new "Вибирає збірку відлагодження, доступ до якої можна отримати через Android Studio. Для зміни відлагодження та випуску складання потрібне видалення з вашого пристрою."
 
     # game/android.rpy:51
     old "Selects the Release build, which can be uploaded to stores. Changing between debug and release builds requires an uninstall from your device."
-    new "??? Вибирає версію випуску, яку можна завантажити в крамниці. Для зміни відлагодження та випуску збірки потрібне видалення з вашого пристрою."
+    new "??? Вибирає версію випуску, яку можна завантажити в крамниці. Для зміни відлагодження та випуску складання потрібне видалення з вашого пристрою."
 
     # game/android.rpy:245
     old "Copying Android files to distributions directory."
@@ -148,15 +148,15 @@ translate ukrainian strings:
 
     # game/android.rpy:392
     old "Build Package"
-    new "Зібрати пакунок"
+    new "Скласти пакунок"
 
     # game/android.rpy:396
     old "Build & Install"
-    new "Зібрати & Встановити"
+    new "Скласти & Встановити"
 
     # game/android.rpy:400
     old "Build, Install & Launch"
-    new "Зібрати, Встановити & Запустити"
+    new "Скласти, Встановити & Запустити"
 
     # game/android.rpy:411
     old "Other:"
@@ -164,7 +164,7 @@ translate ukrainian strings:
 
     # game/android.rpy:419
     old "Logcat"
-    new "Logcat ???"
+    new "Logcat"
 
     # game/android.rpy:452
     old "Before packaging Android apps, you'll need to download RAPT, the Ren'Py Android Packaging Tool. Would you like to download RAPT now?"
@@ -176,7 +176,7 @@ translate ukrainian strings:
 
     # game/androidstrings.rpy:7
     old "{} is not a directory."
-    new "{} не є путтю."
+    new "{} не є каталоґом."
 
     # game/androidstrings.rpy:8
     old "{} does not contain a Ren'Py game."
@@ -184,7 +184,7 @@ translate ukrainian strings:
 
     # game/androidstrings.rpy:9
     old "Run configure before attempting to build the app."
-    new "Запустіть конфігурацію, перш ніж намагатися створити застосунок ???."
+    new "Запустіть конфіґурацію, перш ніж намагатися створити застосунок ???."
 
     # game/androidstrings.rpy:10
     old "Google Play support is enabled, but build.google_play_key is not defined."
@@ -216,7 +216,7 @@ translate ukrainian strings:
 
     # game/androidstrings.rpy:17
     old "The build seems to have failed."
-    new "Здається, складання не вдалася."
+    new "Здається, складання не вдалося."
 
     # game/androidstrings.rpy:18
     old "Launching app."
@@ -224,7 +224,7 @@ translate ukrainian strings:
 
     # game/androidstrings.rpy:19
     old "The build seems to have succeeded."
-    new "Схоже, складання успішно зевершено."
+    new "Схоже, складання успішно завершено."
 
     # game/androidstrings.rpy:20
     old "The arm64-v8a version works on newer Android devices, the armeabi-v7a version works on older devices, and the x86_64 version works on the simulator and chromebooks."
@@ -232,7 +232,7 @@ translate ukrainian strings:
 
     # game/androidstrings.rpy:21
     old "What is the full name of your application? This name will appear in the list of installed applications."
-    new "Як називається повна назва вашого застосунку? Це ім'я з’явиться у списку встановлених програм."
+    new "Як називається повна назва вашого застосунку? Ця назва з’явиться у списку встановлених проґрам."
 
     # game/androidstrings.rpy:22
     old "What is the short name of your application? This name will be used in the launcher, and for application shortcuts."
@@ -268,7 +268,7 @@ translate ukrainian strings:
 
     # game/androidstrings.rpy:30
     old "What is the application's version?\n\nThis should be the human-readable version that you would present to a person. It must contain only numbers and dots."
-    new "Яка версія програми?\n\nЦе має бути версія, яку ви представили б людині. Вона повинен містити лише числа і крапки."
+    new "Яка версія проґрами?\n\nЦе має бути версія, яку ви представили б людині. Вона повинен містити лише числа і крапки."
 
     # game/androidstrings.rpy:31
     old "The version number must contain only numbers and dots."
@@ -284,7 +284,7 @@ translate ukrainian strings:
 
     # game/androidstrings.rpy:34
     old "How would you like your application to be displayed?"
-    new "Як ви хочете, щоб ваша програма відображалася?"
+    new "Як ви хочете, щоб ваша проґрама відображалася?"
 
     # game/androidstrings.rpy:35
     old "In landscape orientation."
@@ -332,35 +332,35 @@ translate ukrainian strings:
 
     # game/androidstrings.rpy:46
     old "Do you want to allow the app to access the Internet?"
-    new "Ви хочете дозволити застосунку мати доступ до Всемережжя?"
+    new "Ви бажаєте дозволити застосунку мати доступ до Всемережжя?"
 
     # game/androidstrings.rpy:47
     old "Do you want to automatically update the generated project?"
-    new "Ви хочете самочинно оновлювати складений проєкт?"
+    new "Ви бажаєте самочинно оновлювати складений проєкт?"
 
     # game/androidstrings.rpy:48
     old "Yes. This is the best choice for most projects."
-    new "Так. Це найкращий вибір для більшости проєктів."
+    new "Так. Це найкращий вибір для більшості проєктів."
 
     # game/androidstrings.rpy:49
     old "No. This may require manual updates when Ren'Py or the project configuration changes."
-    new "Ні. Це може потребувати оновлень вручну, коли Ren'Py або зміна конфігурації проєкту ???."
+    new "Ні. Це може потребувати оновлень вручну, за зміни Ren'Py або конфіґурації проєкту."
 
     # game/androidstrings.rpy:50
     old "Unknown configuration variable: {}"
-    new "Невідома змінна конфігурації ???: {}"
+    new "Невідома змінна конфіґурації: {}"
 
     # game/androidstrings.rpy:51
     old "I'm compiling a short test program, to see if you have a working JDK on your system."
-    new "Я укладаю коротку тестову програму, щоб побачити, чи працює JDK у вашій системі."
+    new "Я компілюю коротку перевірочну проґраму, щоб побачити, чи працює JDK у вашій системі."
 
     # game/androidstrings.rpy:52
     old "I was unable to use javac to compile a test file. If you haven't installed the Java Development Kit yet, please download it from:\n\nhttp://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html\n\nThe JDK is different from the JRE, so it's possible you have Java without having the JDK. Without a working JDK, I can't continue."
-    new "Я не зміг використати javac для укладання перевіркового файлу. Якщо ви ще не встановили набір Java Development Kit, завантажте його з:\n\nhttp://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html\n\nJDK відрізняється від JRE, тому можливо, у вас є Java, не маючи JDK. Без працюючого JDK я не можу продовжувати."
+    new "Я не зміг використати javac для компіляції перевірочного файлу. Якщо ви ще не встановили набір Java Development Kit, завантажте його з:\n\nhttp://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html\n\nJDK відрізняється від JRE, тому можливо, у вас є Java, не маючи JDK. Без JDK, що працює я не можу продовжувати."
 
     # game/androidstrings.rpy:53
     old "The version of Java on your computer does not appear to be JDK 8, which is the only version supported by the Android SDK. If you need to install JDK 8, you can download it from:\n\nhttp://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html\n\nYou can also set the JAVA_HOME environment variable to use a different version of Java."
-    new "Версія Java на вашому обчислювачі не JDK 8, що є єдиною версією, підтримуваною Android SDK. Якщо вам потрібно встановити JDK 8, ви можете завантажити його з:\n\nhttp://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html\n\nВи також можете встановити змінну середовища JAVA_HOME для використання іншої версії Java."
+    new "Версія Java на вашому комп'ютері не JDK 8, що є єдиною версією, підтримуваною Android SDK. Якщо вам потрібно встановити JDK 8, ви можете завантажити його з:\n\nhttp://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html\n\nВи також можете встановити змінну середовища JAVA_HOME для використання іншої версії Java."
 
     # game/androidstrings.rpy:54
     old "The JDK is present and working. Good!"
@@ -384,7 +384,7 @@ translate ukrainian strings:
 
     # game/androidstrings.rpy:59
     old "I've finished unpacking the Android SDK."
-    new "Я завершив розпаковувати Android SDK."
+    new "Я завершив розпакування Android SDK."
 
     # game/androidstrings.rpy:60
     old "I'm about to download and install the required Android packages. This might take a while."
@@ -404,15 +404,15 @@ translate ukrainian strings:
 
     # game/androidstrings.rpy:64
     old "You set the keystore yourself, so I'll assume it's how you want it."
-    new "Ви самі встановлюєте сховище ключів, тож я припускаю, що ви цього хочете.???"
+    new "Ви самі встановили сховище ключів, тож я припускаю, що все так як задумано."
 
     # game/androidstrings.rpy:65
     old "You've already created an Android keystore, so I won't create a new one for you."
-    new "Ви вже створили сховище ключів для Android, тому я не буду створювати нове для вас.???"
+    new "Ви вже створили сховище ключів для Android, тому я не буду створювати нове для вас"
 
     # game/androidstrings.rpy:66
     old "I can create an application signing key for you. Signing an application with this key allows it to be placed in the Android Market and other app stores.\n\nDo you want to create a key?"
-    new "Я можу створити для вас ключ підписання застосунку. Підписання застосунку за допомогою цього ключа дозволяє розміщувати його в Android Market та інших крамницях застосунків.\n\nВи хочете створити ключ?"
+    new "Я можу створити для вас ключ підписання застосунку. Підписання застосунку за допомогою цього ключа дозволяє розміщувати його в Android Market та інших крамницях застосунків.\n\nВи бажаєте створити ключ?"
 
     # game/androidstrings.rpy:67
     old "I will create the key in the android.keystore file.\n\nYou need to back this file up. If you lose it, you will not be able to upgrade your application.\n\n\\You also need to keep the key safe. If evil people get this file, they could make fake versions of your application, and potentially steal your users' data.\n\nWill you make a backup of android.keystore, and keep it in a safe place?"
@@ -440,7 +440,7 @@ translate ukrainian strings:
 
     # game/choose_directory.rpy:106
     old "The selected projects directory is not writable."
-    new "Вибраний шлях проєктів не підлягає запису."
+    new "Вибраний каталоґ проєктів не підлягає запису."
 
     # game/choose_theme.rpy:303
     old "Could not change the theme. Perhaps options.rpy was changed too much."
@@ -460,7 +460,7 @@ translate ukrainian strings:
 
     # game/choose_theme.rpy:463
     old "Color Scheme"
-    new "Барвова тема"
+    new "Кольорова тема"
 
     # game/choose_theme.rpy:495
     old "Continue"
@@ -476,7 +476,7 @@ translate ukrainian strings:
 
     # game/consolecommand.rpy:84
     old "The command is being run in a new operating system console window."
-    new "Дієвказ виконується у новому вікні консолі операційної системи."
+    new "Команда виконується у новому вікні консолі операційної системи."
 
     # game/distribute.rpy:445
     old "Scanning project files..."
@@ -496,7 +496,7 @@ translate ukrainian strings:
 
     # game/distribute.rpy:577
     old "All packages have been built.\n\nDue to the presence of permission information, unpacking and repacking the Linux and Macintosh distributions on Windows is not supported."
-    new "Всі пакунки складено.\n\nЧерез наявність відомостей про дозвіл розпакування та перепакування дистрибутивів Linux та Macintosh у Windows не підтримується ???."
+    new "Усі пакунки складено.\n\nЧерез наявність відомостей про дозвіл розпакування та перепакування дистрибутивів Linux та Macintosh у Windows не підтримується ???."
 
     # game/distribute.rpy:760
     old "Archiving files..."
@@ -532,15 +532,15 @@ translate ukrainian strings:
 
     # game/distribute_gui.rpy:157
     old "Build Distributions: [project.current.display_name!q]"
-    new "Дистрибутиви збірки ???: [project.current.display_name!q]"
+    new "Дистрибутиви складання: [project.current.display_name!q]"
 
     # game/distribute_gui.rpy:171
     old "Directory Name:"
-    new "Назва шляху:"
+    new "Назва каталоґу:"
 
     # game/distribute_gui.rpy:175
     old "Executable Name:"
-    new "Назва здійснення ???:"
+    new "Назва виконуваного файлу:"
 
     # game/distribute_gui.rpy:185
     old "Actions:"
@@ -552,7 +552,7 @@ translate ukrainian strings:
 
     # game/distribute_gui.rpy:194
     old "Add from clauses to calls, once"
-    new "Додайте з пропонов до дзвінків один раз ???"
+    new "Одинично додати функціи from до calls"
 
     # game/distribute_gui.rpy:195
     old "Refresh"
@@ -564,7 +564,7 @@ translate ukrainian strings:
 
     # game/distribute_gui.rpy:215
     old "Build Packages:"
-    new "Пакунки збірки:"
+    new "Пакунки складання:"
 
     # game/distribute_gui.rpy:234
     old "Options:"
@@ -572,23 +572,23 @@ translate ukrainian strings:
 
     # game/distribute_gui.rpy:239
     old "Build Updates"
-    new "Оновлення збірки"
+    new "Оновлення складання"
 
     # game/distribute_gui.rpy:241
     old "Add from clauses to calls"
-    new "Додати з пропонов до дзвінків ???"
+    new "Додати функції from до calls"
 
     # game/distribute_gui.rpy:242
     old "Force Recompile"
-    new "Примусово переукласти"
+    new "Примусово пере-компілювати"
 
     # game/distribute_gui.rpy:246
     old "Build"
-    new "Зібрати"
+    new "Скласти"
 
     # game/distribute_gui.rpy:250
     old "Adding from clauses to call statements that do not have them."
-    new "Додавання із пропонов до викликів викликів, які їх не мають ???."
+    new "Додавання функції from до операторів call, якщо вони їх не мають."
 
     # game/distribute_gui.rpy:271
     old "Errors were detected when running the project. Please ensure the project runs without errors before building distributions."
@@ -596,19 +596,19 @@ translate ukrainian strings:
 
     # game/distribute_gui.rpy:288
     old "Your project does not contain build information. Would you like to add build information to the end of options.rpy?"
-    new "Ваш проєкт не містить відомостей про збірку. Ви хочете додати відомости про збірку до кінця options.rpy?"
+    new "Ваш проєкт не містить відомостей про збірку. Ви бажаєте додати відомості про збірку до кінця options.rpy?"
 
     # game/dmgcheck.rpy:50
     old "Ren'Py is running from a read only folder. Some functionality will not work."
-    new "Ren'Py працює з обгортки лише для читання. Деякі можливости не працюватимуть."
+    new "Ren'Py працює з каталоґами лише для читання. Деякі можливості не працюватимуть."
 
     # game/dmgcheck.rpy:50
     old "This is probably because Ren'Py is running directly from a Macintosh drive image. To fix this, quit this launcher, copy the entire %s folder somewhere else on your computer, and run Ren'Py again."
-    new "Це, мабуть, тому, що Ren'Py працює безпосередньо із зображення диска Macintosh. Щоб виправити це, закрийте цей запускач, скопіюйте всю %s обгортку де-небудь ще на вашому обчислювач та знову запустіть Ren'Py."
+    new "Це, мабуть, тому, що Ren'Py працює безпосередньо із образом диска Macintosh. Щоб виправити це, закрийте цей запускач, скопіюйте всю %s папку де-небудь ще на вашому обчислювач та знову запустіть Ren'Py."
 
     # game/editor.rpy:152
     old "(Recommended) A modern and approachable text editor."
-    new "(Пораджено) Сучасний і доступний текстовий редагувач."
+    new "(Пораджено) Сучасний і доступний текстовий редактор."
 
     # game/editor.rpy:164
     old "Up to 150 MB download required."
@@ -616,11 +616,11 @@ translate ukrainian strings:
 
     # game/editor.rpy:178
     old "A mature editor. Editra lacks the IME support required for Chinese, Japanese, and Korean text input."
-    new "Бувалий редагувач. У редагувачі відсутня підтримка IME, необхідна для введення тексту китайською, японською та корейською мовами."
+    new "Перевірений часом редактор. У редакторі відсутня підтримка IME, необхідна для введення тексту китайською, японською та корейською мовами."
 
     # game/editor.rpy:179
     old "A mature editor. Editra lacks the IME support required for Chinese, Japanese, and Korean text input. On Linux, Editra requires wxPython."
-    new "Бувалий редагувач. У редагувачі відсутня підтримка IME, необхідна для введення тексту китайською, японською та корейською мовами. У Linux для редагування потрібен wxPython."
+    new "Перевірений часом редактор. У редакторі відсутня підтримка IME, необхідна для введення тексту китайською, японською та корейською мовами. У Linux для редагування потрібен wxPython."
 
     # game/editor.rpy:195
     old "This may have occured because wxPython is not installed on this system."
@@ -632,11 +632,11 @@ translate ukrainian strings:
 
     # game/editor.rpy:210
     old "A mature editor that requires Java."
-    new "Бувалий редагувач, якому потрібна Java."
+    new "Перевірений часом редактор, якому потрібна Java."
 
     # game/editor.rpy:210
     old "1.8 MB download required."
-    new "1.8 MB завантаження потрібно."
+    new "Потрібне завантаження 1.8 Мб."
 
     # game/editor.rpy:210
     old "This may have occured because Java is not installed on this system."
@@ -644,11 +644,11 @@ translate ukrainian strings:
 
     # game/editor.rpy:219
     old "System Editor"
-    new "Системний редагувач"
+    new "Системний редактор"
 
     # game/editor.rpy:219
     old "Invokes the editor your operating system has associated with .rpy files."
-    new "Викликає редагувач, у якому ваша орудна система пов’язана з файлами .rpy."
+    new "Викликає редактор, у якому ваша орудна система пов’язана з файлами .rpy."
 
     # game/editor.rpy:235
     old "None"
@@ -656,7 +656,7 @@ translate ukrainian strings:
 
     # game/editor.rpy:235
     old "Prevents Ren'Py from opening a text editor."
-    new "Заважає Ren'Py відкривати текстовий редагувач."
+    new "Заважає Ren'Py відкривати текстовий редактор."
 
     # game/editor.rpy:338
     old "Edit [text]."
@@ -664,15 +664,15 @@ translate ukrainian strings:
 
     # game/editor.rpy:387
     old "An exception occured while launching the text editor:\n[exception!q]"
-    new "Стався виняток під час запуску текстового редагувача:\n[exception!q]"
+    new "Стався виняток під час запуску текстового редактора:\n[exception!q]"
 
     # game/editor.rpy:519
     old "Select Editor"
-    new "Оберіть редагувач"
+    new "Оберіть редактор"
 
     # game/editor.rpy:534
     old "A text editor is the program you'll use to edit Ren'Py script files. Here, you can select the editor Ren'Py will use. If not already present, the editor will be automatically downloaded and installed."
-    new "Текстовий редагувач - це програма, яку ви використовуєте для редагування файлів сценаріїв Ren'Py. Тут ви можете вибрати редагувач, який буде використовувати Ren'Py. Якщо його ще немає, редагувач самочинно завантажується та встановлюється."
+    new "Текстовий редактор - це проґрама, яку ви використовуєте для редагування файлів сценаріїв Ren'Py. Тут ви можете вибрати редактор, який буде використовувати Ren'Py. Якщо його ще немає, редактор самочинно завантажується та встановлюється."
 
     # game/front_page.rpy:35
     old "Open [text] directory."
@@ -716,7 +716,7 @@ translate ukrainian strings:
 
     # game/front_page.rpy:190
     old "Open Directory"
-    new "Відкрити обгортку"
+    new "Відкрити папку"
 
     # game/front_page.rpy:195
     old "game"
@@ -752,7 +752,7 @@ translate ukrainian strings:
 
     # game/front_page.rpy:230
     old "Navigate Script"
-    new "Навігація по сценарію"
+    new "Навіґація по сценарію"
 
     # game/front_page.rpy:231
     old "Check Script (Lint)"
@@ -772,7 +772,7 @@ translate ukrainian strings:
 
     # game/front_page.rpy:248
     old "Build Distributions"
-    new "Зібрати дистрибутив"
+    new "Скласти дистрибутив"
 
     # game/front_page.rpy:250
     old "Android"
@@ -792,7 +792,7 @@ translate ukrainian strings:
 
     # game/front_page.rpy:253
     old "Generate Translations"
-    new "Породити переклади"
+    new "Ґенерувати переклади"
 
     # game/front_page.rpy:254
     old "Extract Dialogue"
@@ -808,7 +808,7 @@ translate ukrainian strings:
 
     # game/front_page.rpy:294
     old "Recompiling all rpy files into rpyc files..."
-    new "Переукладання всіх .rpy та .rpyc файлів..."
+    new "Компіляція наново всіх .rpy та .rpyc файлів..."
 
     # game/gui7.rpy:252
     old "Select Accent and Background Colors"
@@ -884,7 +884,7 @@ translate ukrainian strings:
 
     # game/interface.rpy:120
     old "Ren'Py Website"
-    new "Ren'Py осідок"
+    new "Ren'Py вебсайт"
 
     # game/interface.rpy:121
     old "Ren'Py Games List"
@@ -904,11 +904,11 @@ translate ukrainian strings:
 
     # game/interface.rpy:136
     old "Ren'Py Sponsor Information"
-    new "Ren'Py Відомости про коштодавців"
+    new "Ren'Py Відомості про коштодавців"
 
     # game/interface.rpy:264
     old "Due to package format limitations, non-ASCII file and directory names are not allowed."
-    new "Через обмеження формату пакунку, не-ASCII імена файлів та обгорток заборонені."
+    new "Через обмеження формату пакунку, не-ASCII імена файлів та каталоґів заборонені."
 
     # game/interface.rpy:360
     old "ERROR"
@@ -916,7 +916,7 @@ translate ukrainian strings:
 
     # game/interface.rpy:372
     old "opening the log file"
-    new "відкриття файлу часопису"
+    new "відкриття файлу журналу"
 
     # game/interface.rpy:394
     old "While [what!qt], an error occured:"
@@ -932,11 +932,11 @@ translate ukrainian strings:
 
     # game/interface.rpy:432
     old "File and directory names may not contain / or \\."
-    new "Імена файлів і путей можуть не містити / або \\."
+    new "Назви файлів і каталоґів можуть не містити / або \\."
 
     # game/interface.rpy:438
     old "File and directory names must consist of ASCII characters."
-    new "Імена файлів і путей повинні складатися зі знаків ASCII."
+    new "Назви файлів і каталоґів повинні складатися зі знаків ASCII."
 
     # game/interface.rpy:506
     old "PROCESSING"
@@ -952,7 +952,7 @@ translate ukrainian strings:
 
     # game/ios.rpy:28
     old "To build iOS packages, please download renios, unzip it, and place it into the Ren'Py directory. Then restart the Ren'Py launcher."
-    new "Щоб створити пакети iOS, завантажте renios, розпакуйте та помістіть їх у каталог Ren'Py. Потім перезапустіть пусковий апарат Ren'Py."
+    new "Щоб створити пакунки iOS, завантажте renios, розпакуйте та помістіть їх у каталог Ren'Py. Потім перезапустіть пусковий апарат Ren'Py."
 
     # game/ios.rpy:29
     old "The directory in where Xcode projects will be placed has not been selected. Choose 'Select Directory' to select it."
@@ -996,7 +996,7 @@ translate ukrainian strings:
 
     # game/ios.rpy:131
     old "The Xcode project already exists. Would you like to rename the old project, and replace it with a new one?"
-    new "Проєкт Xcode вже існує. Ви хочете перейменувати старий проєкт та замінити його на новий?"
+    new "Проєкт Xcode вже існує. Ви бажаєте перейменувати старий проєкт та замінити його на новий?"
 
     # game/ios.rpy:225
     old "iOS: [project.current.display_name!q]"
@@ -1052,11 +1052,11 @@ translate ukrainian strings:
 
     # game/itch.rpy:96
     old "The built distributions could not be found. Please choose 'Build' and try again."
-    new "Вбудованих дистрибутивів не вдалося знайти. Виберіть «Зібрати» і повторіть спробу ???."
+    new "Вбудованих дистрибутивів не вдалося знайти. Виберіть «Скласти» і повторіть спробу ???."
 
     # game/itch.rpy:134
     old "No uploadable files were found. Please choose 'Build' and try again."
-    new "Не знайдено файлів, які можна завантажити. Виберіть «Зібрати» і повторіть спробу."
+    new "Не знайдено файлів, які можна завантажити. Виберіть «Скласти» і повторіть спробу."
 
     # game/itch.rpy:140
     old "The butler program was not found."
@@ -1080,27 +1080,27 @@ translate ukrainian strings:
 
     # game/navigation.rpy:168
     old "Navigate: [project.current.display_name!q]"
-    new "Навігація ???: [project.current.display_name!q]"
+    new "Навіґація ???: [project.current.display_name!q]"
 
     # game/navigation.rpy:178
     old "Order: "
-    new "Замовлення ???: "
+    new "Впорядкування: "
 
     # game/navigation.rpy:179
     old "alphabetical"
-    new "абетково ???"
+    new "абетково"
 
     # game/navigation.rpy:181
     old "by-file"
-    new "по файлу"
+    new "за файлом"
 
     # game/navigation.rpy:183
     old "natural"
-    new "натурально ???"
+    new "натурально"
 
     # game/navigation.rpy:195
     old "Category:"
-    new "Категорія ???:"
+    new "Катеґорія:"
 
     # game/navigation.rpy:198
     old "files"
@@ -1112,23 +1112,23 @@ translate ukrainian strings:
 
     # game/navigation.rpy:200
     old "defines"
-    new "визначки ???"
+    new "визначення"
 
     # game/navigation.rpy:201
     old "transforms"
-    new "перетворення ???"
+    new "перетворення"
 
     # game/navigation.rpy:202
     old "screens"
-    new "екрани ???"
+    new "екрани"
 
     # game/navigation.rpy:203
     old "callables"
-    new "виклики ???"
+    new "викликовувані"
 
     # game/navigation.rpy:204
     old "TODOs"
-    new "TODOs ???"
+    new "Списки завдань"
 
     # game/navigation.rpy:243
     old "+ Add script file"
@@ -1136,7 +1136,7 @@ translate ukrainian strings:
 
     # game/navigation.rpy:251
     old "No TODO comments found.\n\nTo create one, include \"# TODO\" in your script."
-    new "No TODO comments found.\n\nTo create one, include \"# TODO\" in your script."
+    new "Не знайдено коментарів списку завдань.\n\nTo create one, include \"# TODO\" in your script."
 
     # game/navigation.rpy:258
     old "The list of names is empty."
@@ -1228,11 +1228,11 @@ translate ukrainian strings:
 
     # game/preferences.rpy:120
     old "Text Editor:"
-    new "Текстовий редагувач:"
+    new "Текстовий редактор:"
 
     # game/preferences.rpy:126
     old "Text editor: [text]"
-    new "Текстовий редагувач: [text]"
+    new "Текстовий редактор: [text]"
 
     # game/preferences.rpy:145
     old "Navigation Options:"
@@ -1424,7 +1424,7 @@ translate ukrainian strings:
 
     # game/translations.rpy:380
     old "Strip text tags from the dialogue."
-    new "Зібрати текстові теги з розмов."
+    new "Скласти текстові теги з розмов."
 
     # game/translations.rpy:381
     old "Escape quotes and other special characters."
@@ -1556,19 +1556,19 @@ translate ukrainian strings:
 
     # game/web.rpy:148
     old "Build Web Application"
-    new "Зібрати Web-застосунок ???"
+    new "Скласти Web-застосунок"
 
     # game/web.rpy:149
     old "Build and Open in Browser"
-    new "Зібрати та відкрити у переглядачі мережі"
+    new "Скласти та відкрити у веб-оглядачі"
 
     # game/web.rpy:150
     old "Open in Browser"
-    new "Відкрити у переглядачі мережі"
+    new "Відкрити у веб-оглядачі"
 
     # game/web.rpy:151
     old "Open build directory"
-    new "Відкрити шлях збірки"
+    new "Відкрити шлях складання"
 
     # game/web.rpy:155
     old "Support:"
@@ -1600,5 +1600,5 @@ translate ukrainian strings:
 
     # game/front_page.rpy:198
     old "audio"
-    new ""
+    new "авдіо"
 
