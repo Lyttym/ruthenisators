@@ -220,11 +220,11 @@ translate ukrainian strings:
 
     # gui/game/gui.rpy:224
     old "## The save slot button."
-    new "## Кнопка збереження слота."
+    new "## Кнопка збереження комірки."
 
     # gui/game/gui.rpy:234
     old "## The width and height of thumbnails used by the save slots."
-    new "## Ширина та висота ескізів, що використовуються слотами для збереження ???."
+    new "## Ширина та висота ескізів, що використовуються комірками для збереження."
 
     # gui/game/gui.rpy:238
     old "## The number of columns and rows in the grid of save slots."
@@ -232,7 +232,7 @@ translate ukrainian strings:
 
     # gui/game/gui.rpy:243
     old "## Positioning and Spacing"
-    new "## Позиціонування та інтервал ???"
+    new "## Позиціонування та інтервали"
 
     # gui/game/gui.rpy:245
     old "## These variables control the positioning and spacing of various user interface elements."
@@ -244,15 +244,15 @@ translate ukrainian strings:
 
     # gui/game/gui.rpy:252
     old "## The vertical position of the skip indicator."
-    new "## Прямовисне положення індикатора пропуску ???."
+    new "## Горизонтальне положення індикатора пропуску ???."
 
     # gui/game/gui.rpy:255
     old "## The vertical position of the notify screen."
-    new "## Прямовисне положення екрана сповіщення ???."
+    new "## Горизонтальне положення екрана сповіщення ???."
 
     # gui/game/gui.rpy:258
     old "## The spacing between menu choices."
-    new "## Інтервал між відмінами меню ???."
+    new "## Інтервал між варіантами меню ???."
 
     # gui/game/gui.rpy:261
     old "## Buttons in the navigation section of the main and game menus."
@@ -280,7 +280,7 @@ translate ukrainian strings:
 
     # gui/game/gui.rpy:280
     old "## Frames"
-    new "## Рамки ???"
+    new "## Рамки"
 
     # gui/game/gui.rpy:282
     old "## These variables control the look of frames that can contain user interface components when an overlay or window is not present."
@@ -300,7 +300,7 @@ translate ukrainian strings:
 
     # gui/game/gui.rpy:294
     old "## The frame that is used as part of the notify screen."
-    new "## Рамка, яка використовується як частина екрана сповіщень."
+    new "## Рамка, яка використовується як частина екрану сповіщень."
 
     # gui/game/gui.rpy:297
     old "## Should frame backgrounds be tiled?"
@@ -308,19 +308,19 @@ translate ukrainian strings:
 
     # gui/game/gui.rpy:301
     old "## Bars, Scrollbars, and Sliders"
-    new "## Панелі, смуги прокрутки та повзунки"
+    new "## Панелі, смуги прокручування та повзунки"
 
     # gui/game/gui.rpy:303
     old "## These control the look and size of bars, scrollbars, and sliders."
-    new "## Вони керують зовнішнім виглядом та розміром смуг, смуг прокрутки та повзунків."
+    new "## Вони керують зовнішнім виглядом та розміром смуг, смуг прокручування та повзунків."
 
     # gui/game/gui.rpy:305
     old "## The default GUI only uses sliders and vertical scrollbars. All of the other bars are only used in creator-written screens."
-    new "## GUI усталено використовує лише повзунки та прямовисні смуги прокрутки. Усі інші панелі використовуються лише на екранах, написаних творцем."
+    new "## GUI усталено використовує лише повзунки та вертикальні смуги прокручування. Усі інші панелі використовуються лише на екранах, написаних творцем."
 
     # gui/game/gui.rpy:308
     old "## The height of horizontal bars, scrollbars, and sliders. The width of vertical bars, scrollbars, and sliders."
-    new "## Висота поземних смуг, смуг прокрутки та повзунків. Ширина прямовисних смуг, смуг прокрутки та повзунків."
+    new "## Висота горизонтальних смуг, смуг прокручування та повзунків. Ширина вертикальних смуг, смуг прокручування та повзунків."
 
     # gui/game/gui.rpy:314
     old "## True if bar images should be tiled. False if they should be linearly scaled."
@@ -328,31 +328,31 @@ translate ukrainian strings:
 
     # gui/game/gui.rpy:319
     old "## Horizontal borders."
-    new "## Поземні межі."
+    new "## Горизонтальні межі."
 
     # gui/game/gui.rpy:324
     old "## Vertical borders."
-    new "## Прямовисні межі."
+    new "## Вертикальні межі."
 
     # gui/game/gui.rpy:329
     old "## What to do with unscrollable scrollbars in the gui. \"hide\" hides them, while None shows them."
-    new "## Що робити з некерованими смугами прокрутки в меню GUI. \"hide\" приховує їх, а None не показує їх."
+    new "## Що робити з некерованими смугами прокручування в меню GUI. \"hide\" приховує їх, а None не показує їх."
 
     # gui/game/gui.rpy:334
     old "## History"
-    new "## Дієпис"
+    new "## Історія"
 
     # gui/game/gui.rpy:336
     old "## The history screen displays dialogue that the player has already dismissed."
-    new "## На екрані дієпису відображається розмова, яку гравець вже відхилив."
+    new "## На екрані історії відображається розмова, яку гравець вже відхилив."
 
     # gui/game/gui.rpy:338
     old "## The number of blocks of dialogue history Ren'Py will keep."
-    new "## Кількість блоків дієпису розмови Ren'Py збережеться ???."
+    new "## Кількість блоків історії розмов Ren'Py, що збережеться."
 
     # gui/game/gui.rpy:341
     old "## The height of a history screen entry, or None to make the height variable at the cost of performance."
-    new "## Висота запису на екрані дієпису або None, щоб змінити висоту за рахунок плідности ???."
+    new "## Висота доступних записів на екрані історії, або None, щоб задати висоту в залежності від плідності."
 
     # gui/game/gui.rpy:345
     old "## The position, width, and alignment of the label giving the name of the speaking character."
@@ -372,15 +372,15 @@ translate ukrainian strings:
 
     # gui/game/gui.rpy:363
     old "## The borders of the background of the NVL-mode background window."
-    new "## Межі тла вікна режиму NVL ???."
+    new "## Межі тла вікна режиму NVL."
 
     # gui/game/gui.rpy:366
     old "## The maximum number of NVL-mode entries Ren'Py will display. When more entries than this are to be show, the oldest entry will be removed."
-    new "## ??? Найбільша кількість записів у режимі NVL відобразиться на Ren'Py. Коли буде показано більше записів, ніж можна, найстаріший запис буде видалено."
+    new "## ??? Найбільша кількість рядків у режимі NVL що відобразиться на Ren'Py. Коли буде показано більше рядків, ніж можна, найстаріший запис буде видалено."
 
     # gui/game/gui.rpy:370
     old "## The height of an NVL-mode entry. Set this to None to have the entries dynamically adjust height."
-    new "## Висота запису в режимі NVL. Установіть це значення None, щоб записи динамічно регулювали висоту ???."
+    new "## Висота доступних рядків в режимі NVL. Встановіть на None, щоб рядки динамічно регулювали свою висоту."
 
     # gui/game/gui.rpy:374
     old "## The spacing between NVL-mode entries when gui.nvl_height is None, and between NVL-mode entries and an NVL-mode menu."
@@ -396,11 +396,11 @@ translate ukrainian strings:
 
     # gui/game/gui.rpy:402
     old "## Localization"
-    new "## Локалізація ???"
+    new "## Локалізація"
 
     # gui/game/gui.rpy:404
     old "## This controls where a line break is permitted. The default is suitable for most languages. A list of available values can be found at https://www.renpy.org/doc/html/style_properties.html#style-property-language"
-    new "## ??? Це визначає, де дозволено розрив рядка. Усталено для більшости мов. Перелік доступних значень можна знайти на веб-сторінці https://www.renpy.org/doc/html/style_properties.html#style-property-language"
+    new "## Ця настройка контролює доступ до розриву ліній. Усталена настройка підходить для більшості мов. Список доступних значень можна знайти на https://www.renpy.org/doc/html/style_properties.html#style-property-language"
 
     # gui/game/gui.rpy:412
     old "## Mobile devices"
@@ -412,15 +412,15 @@ translate ukrainian strings:
 
     # gui/game/gui.rpy:423
     old "## This changes the size and spacing of various GUI elements to ensure they are easily visible on phones."
-    new "## ??? Це змінює розмір та інтервал різних елементів графічного інтерфейсу, щоб забезпечити їх легкість видимості на смартфонах."
+    new "## Це змінює розмір та інтервал різних елементів ґрафічного інтерфейсу, щоб забезпечити їх легкість видимості на смартфонах."
 
     # gui/game/gui.rpy:427
     old "## Font sizes."
-    new "## Розміри шрифтів ???."
+    new "## Розміри шрифтів."
 
     # gui/game/gui.rpy:435
     old "## Adjust the location of the textbox."
-    new "## Відрегулювання розташування текстового поля ???."
+    new "## Відрегулювання розташування текстового поля."
 
     # gui/game/gui.rpy:441
     old "## Change the size and spacing of various things."
@@ -428,7 +428,7 @@ translate ukrainian strings:
 
     # gui/game/gui.rpy:454
     old "## File button layout."
-    new "## Макет кнопки файлу ???."
+    new "## Розташування кнопок комірок."
 
     # gui/game/gui.rpy:458
     old "## NVL-mode."
