@@ -36,7 +36,7 @@ translate ukrainian strings:
 
     # game/android.rpy:30
     old "To build Android packages, please download RAPT, unzip it, and place it into the Ren'Py directory. Then restart the Ren'Py launcher."
-    new "Щоб створити пакунки Android, завантажте RAPT, розпакуйте та помістіть його в шлях Ren'Py. Потім перезапустіть запускач Ren'Py."
+    new "Щоб створити пакунки Android, завантажте RAPT, розпакуйте та помістіть його в каталог Ren'Py. Потім перезапустіть запускач Ren'Py."
 
     # game/android.rpy:31
     old "A 64-bit/x64 Java 8 Development Kit is required to build Android packages on Windows. The JDK is different from the JRE, so it's possible you have Java without having the JDK.\n\nPlease {a=http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html}download and install the JDK{/a}, then restart the Ren'Py launcher."
@@ -100,15 +100,15 @@ translate ukrainian strings:
 
     # game/android.rpy:50
     old "Selects the Debug build, which can be accessed through Android Studio. Changing between debug and release builds requires an uninstall from your device."
-    new "Вибирає збірку відлагодження, доступ до якої можна отримати через Android Studio. Для зміни відлагодження та випуску складання потрібне видалення з вашого пристрою."
+    new "Вибирає збірку відлагодження, доступ до якої можна отримати через Android Studio. Для зміни відлагодження та випуску складання потрібне видалення з Вашого пристрою."
 
     # game/android.rpy:51
     old "Selects the Release build, which can be uploaded to stores. Changing between debug and release builds requires an uninstall from your device."
-    new "??? Вибирає версію випуску, яку можна завантажити в крамниці. Для зміни відлагодження та випуску складання потрібне видалення з вашого пристрою."
+    new "??? Вибирає версію випуску, яку можна завантажити в крамниці. Для зміни відлагодження та випуску складання потрібне видалення з Вашого пристрою."
 
     # game/android.rpy:245
     old "Copying Android files to distributions directory."
-    new "Копіювання файлів Android у шлях дистрибутивів ???."
+    new "Копіювання файлів Android у каталог дистрибутивів ???."
 
     # game/android.rpy:313
     old "Android: [project.current.display_name!q]"
@@ -196,7 +196,7 @@ translate ukrainian strings:
 
     # game/androidstrings.rpy:12
     old "Creating assets directory."
-    new "Створення шляху асетів ???."
+    new "Створення каталогу асетів ???."
 
     # game/androidstrings.rpy:13
     old "Creating expansion file."
@@ -232,11 +232,11 @@ translate ukrainian strings:
 
     # game/androidstrings.rpy:21
     old "What is the full name of your application? This name will appear in the list of installed applications."
-    new "Як називається повна назва вашого застосунку? Ця назва з’явиться у списку встановлених проґрам."
+    new "Як називається повна назва Вашого застосунку? Ця назва з’явиться у списку встановлених проґрам."
 
     # game/androidstrings.rpy:22
     old "What is the short name of your application? This name will be used in the launcher, and for application shortcuts."
-    new "Яке коротке найменування вашого застосунку? Ця назва буде використана як у запускачі, так і для ярликів застосунків ???."
+    new "Яке коротке найменування Вашого застосунку? Ця назва буде використана як у запускачі, так і для ярликів застосунків ???."
 
     # game/androidstrings.rpy:23
     old "What is the name of the package?\n\nThis is usually of the form com.domain.program or com.domain.email.program. It may only contain ASCII letters and dots. It must contain at least one dot."
@@ -284,7 +284,7 @@ translate ukrainian strings:
 
     # game/androidstrings.rpy:34
     old "How would you like your application to be displayed?"
-    new "Як ви хочете, щоб ваша проґрама відображалася?"
+    new "Як ви хочете, щоб Ваша проґрама відображалася?"
 
     # game/androidstrings.rpy:35
     old "In landscape orientation."
@@ -352,7 +352,7 @@ translate ukrainian strings:
 
     # game/androidstrings.rpy:51
     old "I'm compiling a short test program, to see if you have a working JDK on your system."
-    new "Я компілюю коротку перевірочну проґраму, щоб побачити, чи працює JDK у вашій системі."
+    new "Я компілюю коротку перевірочну проґраму, щоб побачити, чи працює JDK у Вашій системі."
 
     # game/androidstrings.rpy:52
     old "I was unable to use javac to compile a test file. If you haven't installed the Java Development Kit yet, please download it from:\n\nhttp://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html\n\nThe JDK is different from the JRE, so it's possible you have Java without having the JDK. Without a working JDK, I can't continue."
@@ -360,7 +360,7 @@ translate ukrainian strings:
 
     # game/androidstrings.rpy:53
     old "The version of Java on your computer does not appear to be JDK 8, which is the only version supported by the Android SDK. If you need to install JDK 8, you can download it from:\n\nhttp://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html\n\nYou can also set the JAVA_HOME environment variable to use a different version of Java."
-    new "Версія Java на вашому комп'ютері не JDK 8, що є єдиною версією, підтримуваною Android SDK. Якщо вам потрібно встановити JDK 8, ви можете завантажити його з:\n\nhttp://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html\n\nВи також можете встановити змінну середовища JAVA_HOME для використання іншої версії Java."
+    new "Версія Java на Вашому комп'ютері не JDK 8, що є єдиною версією, підтримуваною Android SDK. Якщо вам потрібно встановити JDK 8, ви можете завантажити його з:\n\nhttp://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html\n\nВи також можете встановити змінну середовища JAVA_HOME для використання іншої версії Java."
 
     # game/androidstrings.rpy:54
     old "The JDK is present and working. Good!"
@@ -416,15 +416,15 @@ translate ukrainian strings:
 
     # game/androidstrings.rpy:67
     old "I will create the key in the android.keystore file.\n\nYou need to back this file up. If you lose it, you will not be able to upgrade your application.\n\n\\You also need to keep the key safe. If evil people get this file, they could make fake versions of your application, and potentially steal your users' data.\n\nWill you make a backup of android.keystore, and keep it in a safe place?"
-    new "Я створю ключ в файлі android.keystore.\n\nВам потрібно створити запасну копію цього файлу. Якщо ви втратите її, ви не зможете оновити свій застосунок.\n\n\\Також потрібно зберігати ключ у безпеці. Якщо злочинці отримають цей файл, вони можуть зробити підроблені версії вашого застосунку та можливо вкрасти дані ваших користувачів.\n\nЧи будете ви робити запасну копію android.keystore та зберігати її в безпечному місці?"
+    new "Я створю ключ в файлі android.keystore.\n\nВам потрібно створити запасну копію цього файлу. Якщо ви втратите її, ви не зможете оновити свій застосунок.\n\n\\Також потрібно зберігати ключ у безпеці. Якщо злочинці отримають цей файл, вони можуть зробити підроблені версії Вашого застосунку та можливо вкрасти дані Ваших користувачів.\n\nЧи будете ви робити запасну копію android.keystore та зберігати її в безпечному місці?"
 
     # game/androidstrings.rpy:68
     old "Please enter your name or the name of your organization."
-    new "Введіть своє ім’я або назву вашої орґанізації."
+    new "Введіть своє ім’я або назву Вашої орґанізації."
 
     # game/androidstrings.rpy:69
     old "Could not create android.keystore. Is keytool in your path?"
-    new "Не вдалося створити android.keystore. Чи keytool є у вашому шляху?"
+    new "Не вдалося створити android.keystore. Чи keytool є у Вашому каталозі?"
 
     # game/androidstrings.rpy:70
     old "I've finished creating android.keystore. Please back it up, and keep it in a safe place."
@@ -436,7 +436,7 @@ translate ukrainian strings:
 
     # game/choose_directory.rpy:88
     old "Ren'Py was unable to run python with tkinter to choose the directory. Please install the python-tk or tkinter package."
-    new "Ren'Py не зміг запустити python з tkinter для вибору шляху. Встановіть пакунок python-tk або tkinter."
+    new "Ren'Py не зміг запустити python з tkinter для вибору каталогу. Встановіть пакунок python-tk або tkinter."
 
     # game/choose_directory.rpy:106
     old "The selected projects directory is not writable."
@@ -548,7 +548,7 @@ translate ukrainian strings:
 
     # game/distribute_gui.rpy:193
     old "Edit options.rpy"
-    new "Редагувати options.rpy"
+    new "Правити options.rpy"
 
     # game/distribute_gui.rpy:194
     old "Add from clauses to calls, once"
@@ -604,7 +604,7 @@ translate ukrainian strings:
 
     # game/dmgcheck.rpy:50
     old "This is probably because Ren'Py is running directly from a Macintosh drive image. To fix this, quit this launcher, copy the entire %s folder somewhere else on your computer, and run Ren'Py again."
-    new "Це, мабуть, тому, що Ren'Py працює безпосередньо із образом диска Macintosh. Щоб виправити це, закрийте цей запускач, скопіюйте всю %s папку де-небудь ще на вашому обчислювач та знову запустіть Ren'Py."
+    new "Це, мабуть, тому, що Ren'Py працює безпосередньо із образом диска Macintosh. Щоб виправити це, закрийте цей запускач, скопіюйте всю %s папку де-небудь ще на Вашому обчислювач та знову запустіть Ren'Py."
 
     # game/editor.rpy:152
     old "(Recommended) A modern and approachable text editor."
@@ -620,7 +620,7 @@ translate ukrainian strings:
 
     # game/editor.rpy:179
     old "A mature editor. Editra lacks the IME support required for Chinese, Japanese, and Korean text input. On Linux, Editra requires wxPython."
-    new "Перевірений часом редактор. У редакторі відсутня підтримка IME, необхідна для введення тексту китайською, японською та корейською мовами. У Linux для редагування потрібен wxPython."
+    new "Перевірений часом редактор. У редакторі відсутня підтримка IME, необхідна для введення тексту китайською, японською та корейською мовами. У Linux для правлення потрібен wxPython."
 
     # game/editor.rpy:195
     old "This may have occured because wxPython is not installed on this system."
@@ -648,7 +648,7 @@ translate ukrainian strings:
 
     # game/editor.rpy:219
     old "Invokes the editor your operating system has associated with .rpy files."
-    new "Викликає редактор, у якому ваша орудна система пов’язана з файлами .rpy."
+    new "Викликає редактор, у якому Ваша орудна система пов’язана з файлами .rpy."
 
     # game/editor.rpy:235
     old "None"
@@ -660,7 +660,7 @@ translate ukrainian strings:
 
     # game/editor.rpy:338
     old "Edit [text]."
-    new "Редагувати [text]."
+    new "Правити [text]."
 
     # game/editor.rpy:387
     old "An exception occured while launching the text editor:\n[exception!q]"
@@ -672,11 +672,11 @@ translate ukrainian strings:
 
     # game/editor.rpy:534
     old "A text editor is the program you'll use to edit Ren'Py script files. Here, you can select the editor Ren'Py will use. If not already present, the editor will be automatically downloaded and installed."
-    new "Текстовий редактор - це проґрама, яку ви використовуєте для редагування файлів сценаріїв Ren'Py. Тут ви можете вибрати редактор, який буде використовувати Ren'Py. Якщо його ще немає, редактор самочинно завантажується та встановлюється."
+    new "Текстовий редактор - це проґрама, яку ви використовуєте для правлення файлів сценаріїв Ren'Py. Тут ви можете вибрати редактор, який буде використовувати Ren'Py. Якщо його ще немає, редактор самочинно завантажується та встановлюється."
 
     # game/front_page.rpy:35
     old "Open [text] directory."
-    new "Відкрити шлях [text]."
+    new "Відкрити каталог [text]."
 
     # game/front_page.rpy:91
     old "PROJECTS:"
@@ -736,7 +736,7 @@ translate ukrainian strings:
 
     # game/front_page.rpy:204
     old "Edit File"
-    new "Редагувати файл"
+    new "Правити файл"
 
     # game/front_page.rpy:215
     old "Open project"
@@ -844,7 +844,7 @@ translate ukrainian strings:
 
     # game/gui7.rpy:355
     old "Please enter the width of your game, in pixels."
-    new "Введіть, будь ласка, ширину вашої гри, у цятинках."
+    new "Введіть, будь ласка, ширину екрана Вашої гри, у пікселях."
 
     # game/gui7.rpy:365
     old "The width must be a number."
@@ -856,7 +856,7 @@ translate ukrainian strings:
 
     # game/gui7.rpy:371
     old "Please enter the height of your game, in pixels."
-    new "Введіть, будь ласка, висоту вашої гри, у цятинках."
+    new "Введіть, будь ласка, висоту екрана Вашої гри, у пікселях."
 
     # game/gui7.rpy:381
     old "The height must be a number."
@@ -956,7 +956,7 @@ translate ukrainian strings:
 
     # game/ios.rpy:29
     old "The directory in where Xcode projects will be placed has not been selected. Choose 'Select Directory' to select it."
-    new "Путь, де розміщуватимуться проєкти Xcode, не обраний. Оберіть «Вибрати шлях», щоб вибрати її."
+    new "Каталог, де розміщуватимуться проєкти Xcode, не обраний. Оберіть «Вибрати каталог», щоб вибрати його."
 
     # game/ios.rpy:30
     old "There is no Xcode project corresponding to the current Ren'Py project. Choose 'Create Xcode Project' to create one."
@@ -976,7 +976,7 @@ translate ukrainian strings:
 
     # game/ios.rpy:36
     old "Selects the directory where Xcode projects will be placed."
-    new "Обирає шлях, де будуть розміщуватися проєкти Xcode."
+    new "Обирає каталог, де будуть розміщуватися проєкти Xcode."
 
     # game/ios.rpy:37
     old "Creates an Xcode project corresponding to the current Ren'Py project."
@@ -992,7 +992,7 @@ translate ukrainian strings:
 
     # game/ios.rpy:41
     old "Opens the directory containing Xcode projects."
-    new "Відкриває шлях, що містить проєкти Xcode."
+    new "Відкриває каталог, що містить проєкти Xcode."
 
     # game/ios.rpy:131
     old "The Xcode project already exists. Would you like to rename the old project, and replace it with a new one?"
@@ -1012,7 +1012,7 @@ translate ukrainian strings:
 
     # game/ios.rpy:278
     old "Select Xcode Projects Directory"
-    new "Вибрати шлях проєктів Xcode"
+    new "Вибрати каталог проєктів Xcode"
 
     # game/ios.rpy:282
     old "Create Xcode Project"
@@ -1028,7 +1028,7 @@ translate ukrainian strings:
 
     # game/ios.rpy:326
     old "Open Xcode Projects Directory"
-    new "Відкрийте шлях проєктів Xcode"
+    new "Відкрийте каталог проєктів Xcode"
 
     # game/ios.rpy:359
     old "Before packaging iOS apps, you'll need to download renios, Ren'Py's iOS support. Would you like to download renios now?"
@@ -1040,19 +1040,19 @@ translate ukrainian strings:
 
     # game/ios.rpy:368
     old "Please choose the Xcode Projects Directory using the directory chooser.\n{b}The directory chooser may have opened behind this window.{/b}"
-    new "Виберіть шлях проєктів Xcode, використовуючи знаряддя вибору шляху.\n{b}За цим вікном може відкритись обирач шляху.{/b}"
+    new "Виберіть каталог проєктів Xcode, використовуючи знаряддя вибору каталогу.\n{b}За цим вікном може відкритись обирач каталогу.{/b}"
 
     # game/ios.rpy:373
     old "Ren'Py has set the Xcode Projects Directory to:"
-    new "Ren'Py встановив шлях проєктів Xcode на:"
+    new "Ren'Py встановив каталог проєктів Xcode на:"
 
     # game/itch.rpy:43
     old "Downloading the itch.io butler."
-    new "Завантаження Itch.io дворецького ???."
+    new "Завантаження Itch.io butler."
 
     # game/itch.rpy:96
     old "The built distributions could not be found. Please choose 'Build' and try again."
-    new "Вбудованих дистрибутивів не вдалося знайти. Виберіть «Скласти» і повторіть спробу ???."
+    new "Убудованих дистрибутивів не вдалося знайти. Виберіть «Скласти» і повторіть спробу."
 
     # game/itch.rpy:134
     old "No uploadable files were found. Please choose 'Build' and try again."
@@ -1060,7 +1060,7 @@ translate ukrainian strings:
 
     # game/itch.rpy:140
     old "The butler program was not found."
-    new "Програма дворецького не знайдена ???."
+    new "Проґрама butler не знайдена."
 
     # game/itch.rpy:140
     old "Please install the itch.io app, which includes butler, and try again."
@@ -1068,7 +1068,7 @@ translate ukrainian strings:
 
     # game/itch.rpy:149
     old "The name of the itch project has not been set."
-    new "Назва itch-проєкту не встановлено."
+    new "Назву itch-проєкту не встановлено."
 
     # game/itch.rpy:149
     old "Please {a=https://itch.io/game/new}create your project{/a}, then add a line like \n{vspace=5}define build.itch_project = \"user-name/game-name\"\n{vspace=5} to options.rpy."
@@ -1136,7 +1136,7 @@ translate ukrainian strings:
 
     # game/navigation.rpy:251
     old "No TODO comments found.\n\nTo create one, include \"# TODO\" in your script."
-    new "Не знайдено коментарів списку завдань.\n\nTo create one, include \"# TODO\" in your script."
+    new "Не знайдено коментарів списку завдань.\n\nЩоб створити такий, включіть \"# TODO\" до Вашого скрипту."
 
     # game/navigation.rpy:258
     old "The list of names is empty."
@@ -1148,23 +1148,23 @@ translate ukrainian strings:
 
     # game/new_project.rpy:48
     old "Both interfaces have been translated to your language."
-    new "Обидва інтерфейси перекладені вашою мовою."
+    new "Обидва інтерфейси перекладені Вашою мовою."
 
     # game/new_project.rpy:50
     old "Only the new GUI has been translated to your language."
-    new "На вашу мову перекладено лише новий графічний інтерфейс."
+    new "На Вашу мову перекладено лише новий графічний інтерфейс."
 
     # game/new_project.rpy:52
     old "Only the legacy theme interface has been translated to your language."
-    new "На вашу мову перекладено лише застарілий інтерфейс теми."
+    new "На Вашу мову перекладено лише застарілий інтерфейс теми."
 
     # game/new_project.rpy:54
     old "Neither interface has been translated to your language."
-    new "Жоден інтерфейс не перекладений вашою мовою."
+    new "Жоден інтерфейс не перекладений Вашою мовою."
 
     # game/new_project.rpy:63
     old "The projects directory could not be set. Giving up."
-    new "Не вдалося встановити шлях проєктів. Здається."
+    new "Не вдалося встановити каталог проєктів. Здаюся."
 
     # game/new_project.rpy:70
     old "Which interface would you like to use? The new GUI has a modern look, supports wide screens and mobile devices, and is easier to customize. Legacy themes might be necessary to work with older example code.\n\n[language_support!t]\n\nIf in doubt, choose the new GUI, then click Continue on the bottom-right."
@@ -1172,7 +1172,7 @@ translate ukrainian strings:
 
     # game/new_project.rpy:70
     old "Legacy Theme Interface"
-    new "Спадковий інтерфейс теми ???"
+    new "Старі теми інтерфейсу"
 
     # game/new_project.rpy:81
     old "You will be creating an [new_project_language]{#this substitution may be localized} language project. Change the launcher language in preferences to create a project in another language."
@@ -1184,7 +1184,7 @@ translate ukrainian strings:
 
     # game/new_project.rpy:86
     old "Please enter the name of your project:"
-    new "Введіть назву вашого проєкту:"
+    new "Введіть назву Вашого проєкту:"
 
     # game/new_project.rpy:96
     old "The project name may not be empty."
@@ -1200,11 +1200,11 @@ translate ukrainian strings:
 
     # game/new_project.rpy:124
     old "Choose Project Template"
-    new "Виберіть передлаштунок проєкту ???"
+    new "Виберіть шаблон проєкту"
 
     # game/new_project.rpy:142
     old "Please select a template to use for your new project. The template sets the default font and the user interface language. If your language is not supported, choose 'english'."
-    new "Виберіть шаблон для нового проєкту. Шаблон встановлює усталений шрифт та мову інтерфейсу користувача. Якщо ваша мова не підтримується, виберіть «англійська мова»."
+    new "Виберіть шаблон для нового проєкту. Шаблон встановлює усталений шрифт та мову інтерфейсу користувача. Якщо Ваша мова не підтримується, виберіть «англійська мова»."
 
     # game/preferences.rpy:73
     old "Launcher Preferences"
@@ -1212,7 +1212,7 @@ translate ukrainian strings:
 
     # game/preferences.rpy:94
     old "Projects Directory:"
-    new "Путь місцезнаходження проєктів:"
+    new "Каталог місцезнаходження проєктів:"
 
     # game/preferences.rpy:101
     old "[persistent.projects_directory!q]"
@@ -1220,7 +1220,7 @@ translate ukrainian strings:
 
     # game/preferences.rpy:103
     old "Projects directory: [text]"
-    new "Путь проєктів: [text]"
+    new "Каталог проєктів: [text]"
 
     # game/preferences.rpy:105
     old "Not Set"
@@ -1236,7 +1236,7 @@ translate ukrainian strings:
 
     # game/preferences.rpy:145
     old "Navigation Options:"
-    new "Настройки навігації:"
+    new "Налаштування навіґації:"
 
     # game/preferences.rpy:149
     old "Include private names"
@@ -1244,19 +1244,19 @@ translate ukrainian strings:
 
     # game/preferences.rpy:150
     old "Include library names"
-    new "Включити імена бібліотеки ???"
+    new "Включити назви бібліотек"
 
     # game/preferences.rpy:160
     old "Launcher Options:"
-    new "Настройки запускача:"
+    new "Налаштування запускача:"
 
     # game/preferences.rpy:164
     old "Hardware rendering"
-    new "Пристроєве відмальовування ???"
+    new "Апаратне відмальовування"
 
     # game/preferences.rpy:165
     old "Show edit file section"
-    new "Показати розділ редагування файлів"
+    new "Показати розділ правлення файлів"
 
     # game/preferences.rpy:166
     old "Large fonts"
@@ -1264,7 +1264,7 @@ translate ukrainian strings:
 
     # game/preferences.rpy:169
     old "Console output"
-    new "Вихід консолі ???"
+    new "Виведення на консоль"
 
     # game/preferences.rpy:173
     old "Force new tutorial"
@@ -1272,11 +1272,11 @@ translate ukrainian strings:
 
     # game/preferences.rpy:177
     old "Legacy options"
-    new "Спадкові налаштування ???"
+    new "Увімкнути старі теми"
 
     # game/preferences.rpy:180
     old "Show templates"
-    new "Відображати шаблони ???"
+    new "Відображати шаблони"
 
     # game/preferences.rpy:182
     old "Sponsor message"
@@ -1312,7 +1312,7 @@ translate ukrainian strings:
 
     # game/project.rpy:281
     old "Please ensure that your project launches normally before running this command."
-    new "Переконайтеся, що ваш проєкт запускається нормально перед запуском цього дієвказа."
+    new "Переконайтеся, що Ваш проєкт запускається нормально перед запуском цієї вказівки."
 
     # game/project.rpy:297
     old "Ren'Py is scanning the project..."
@@ -1320,23 +1320,23 @@ translate ukrainian strings:
 
     # game/project.rpy:729
     old "Launching"
-    new "Запуск"
+    new "Запускання"
 
     # game/project.rpy:763
     old "PROJECTS DIRECTORY"
-    new "ПУТЬ ПРОЄКТІВ"
+    new "КАТАЛОГ ПРОЄКТІВ"
 
     # game/project.rpy:763
     old "Please choose the projects directory using the directory chooser.\n{b}The directory chooser may have opened behind this window.{/b}"
-    new "Please choose the projects directory using the directory chooser.\n{b}The directory chooser may have opened behind this window.{/b}"
+    new "Виберіть каталог проектів за допомогою обирача каталогу.\n{b}За цим вікном, можливо, відкрився обирач каталогу.{/b}"
 
     # game/project.rpy:763
     old "This launcher will scan for projects in this directory, will create new projects in this directory, and will place built projects into this directory."
-    new "Цей запускач зчитуватиме проєкти в цій шляху, створюватиме нові проєкти в цій шляху та розміщуватиме вбудовані проєкту у цю шлях."
+    new "Цей запускач зчитуватиме проєкти в цьому каталозі, створюватиме нові проєкти в цьому каталозі та розміщуватиме вбудовані проєкти у ньому."
 
     # game/project.rpy:768
     old "Ren'Py has set the projects directory to:"
-    new "Ren'Py встановив шлях проєкту:"
+    new "Ren'Py встановив каталог проєкту:"
 
     # game/translations.rpy:91
     old "Translations: [project.current.display_name!q]"
@@ -1368,7 +1368,7 @@ translate ukrainian strings:
 
     # game/translations.rpy:204
     old "Reverse languages"
-    new "Узворотнити мови ???"
+    new "Узворотнити мови"
 
     # game/translations.rpy:208
     old "Update Default Interface Translations"
@@ -1380,11 +1380,11 @@ translate ukrainian strings:
 
     # game/translations.rpy:252
     old "Ren'Py is generating translations...."
-    new "Ren'Py породжує переклади...."
+    new "Ren'Py утворює переклади...."
 
     # game/translations.rpy:263
     old "Ren'Py has finished generating [language] translations."
-    new "Ren'Py завершив пооджувати переклади мовою [language]."
+    new "Ren'Py завершив утворення перекладів мовою [language]."
 
     # game/translations.rpy:276
     old "Ren'Py is extracting string translations..."
@@ -1392,7 +1392,7 @@ translate ukrainian strings:
 
     # game/translations.rpy:279
     old "Ren'Py has finished extracting [language] string translations."
-    new "Ren'Py завершив витягувати рядки перекладів мовою [language] ???."
+    new "Ren'Py завершив витягнення рядків перекладів мовою [language]."
 
     # game/translations.rpy:299
     old "Ren'Py is merging string translations..."
@@ -1408,15 +1408,15 @@ translate ukrainian strings:
 
     # game/translations.rpy:342
     old "Extract Dialogue: [project.current.display_name!q]"
-    new "Витягнення розмови: [project.current.display_name!q]"
+    new "Витягнути розмову: [project.current.display_name!q]"
 
     # game/translations.rpy:358
     old "Format:"
-    new "Формат ???:"
+    new "Формат:"
 
     # game/translations.rpy:366
     old "Tab-delimited Spreadsheet (dialogue.tab)"
-    new "Електронна таблиця з обмеженими вкладками ??? (dialogue.tab)"
+    new "Табульована таблиця (dialogue.tab)"
 
     # game/translations.rpy:367
     old "Dialogue Text Only (dialogue.txt)"
@@ -1440,7 +1440,7 @@ translate ukrainian strings:
 
     # game/translations.rpy:414
     old "Ren'Py has finished extracting dialogue. The extracted dialogue can be found in dialogue.[persistent.dialogue_format] in the base directory."
-    new "Ren'Py завершив витягнення розмов. Витягнуті розмови можна знайти в діалозі.[persistent.dialogue_format] в базовій шляху. ???"
+    new "Ren'Py завершив витягнення розмов. Витягнуті розмови можна знайти в діалозі.[persistent.dialogue_format] в базовій каталогу. ???"
 
     # game/updater.rpy:63
     old "{b}Recommended.{/b} The version of Ren'Py that should be used in all newly-released games."
@@ -1468,7 +1468,7 @@ translate ukrainian strings:
 
     # game/updater.rpy:72
     old "The bleeding edge of Ren'Py development. This may have the latest features, or might not run at all."
-    new "Найпередовіший в розвитку Ren'Py. Він може мати останні можливости, або може не працювати взагалі."
+    new "Найпередовіший в розвитку Ren'Py. Він може мати останні можливості, або може не працювати взагалі."
 
     # game/updater.rpy:90
     old "Select Update Channel"
@@ -1500,7 +1500,7 @@ translate ukrainian strings:
 
     # game/updater.rpy:146
     old "[u.version] is now available. Do you want to install it?"
-    new "[u.version] is now available. Do you want to install it?"
+    new "[u.version] тепер доступна. Ви хочете встановити її?"
 
     # game/updater.rpy:148
     old "Preparing to download the update."
@@ -1568,7 +1568,7 @@ translate ukrainian strings:
 
     # game/web.rpy:151
     old "Open build directory"
-    new "Відкрити шлях складання"
+    new "Відкрити каталог складання"
 
     # game/web.rpy:155
     old "Support:"
@@ -1580,7 +1580,7 @@ translate ukrainian strings:
 
     # game/web.rpy:164
     old "Beuc's Patreon"
-    new "Beuc's Patreon"
+    new "Patreon Бевка"
 
     # game/web.rpy:182
     old "Ren'Py web applications require the entire game to be downloaded to the player's computer before it can start."
@@ -1600,5 +1600,5 @@ translate ukrainian strings:
 
     # game/front_page.rpy:198
     old "audio"
-    new "авдіо"
+    new "audio"
 
