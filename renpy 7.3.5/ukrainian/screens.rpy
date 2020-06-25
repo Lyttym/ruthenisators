@@ -260,7 +260,7 @@ translate ukrainian strings:
 
     # gui/game/screens.rpy:604
     old "Automatic saves"
-    new "Самочинні збереження"
+    new "Автоматичні збереження"
 
     # gui/game/screens.rpy:604
     old "Quick saves"
@@ -312,7 +312,7 @@ translate ukrainian strings:
 
     # gui/game/screens.rpy:710
     old "## Preferences screen"
-    new "## Preferences screen"
+    new "## Екран налаштувань"
 
     # gui/game/screens.rpy:712
     old "## The preferences screen allows the player to configure the game to better suit themselves."

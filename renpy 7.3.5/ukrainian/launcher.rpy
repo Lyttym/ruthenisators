@@ -1376,7 +1376,7 @@ translate ukrainian strings:
 
     # game/translations.rpy:228
     old "The extract command allows you to extract string translations from an existing project into a temporary file.\n\nThe merge command merges extracted translations into another project."
-    new "The extract command allows you to extract string translations from an existing project into a temporary file.\n\nThe merge command merges extracted translations into another project."
+    new "Вказівка витягнення дозволяє вам витягти рядки перекладів з наявного проєкту у тимчасовий файл.\n\nВказівка на об'єднання об'єднує витягнені переклади в інший проєкт."
 
     # game/translations.rpy:252
     old "Ren'Py is generating translations...."

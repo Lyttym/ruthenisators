@@ -392,7 +392,7 @@ translate ukrainian strings:
 
     # gui/game/gui.rpy:398
     old "## The position of nvl menu_buttons."
-    new "## Позиція nvl menu_buttons. ???"
+    new "## Позиція nvl menu_buttons."
 
     # gui/game/gui.rpy:402
     old "## Localization"
@@ -420,7 +420,7 @@ translate ukrainian strings:
 
     # gui/game/gui.rpy:435
     old "## Adjust the location of the textbox."
-    new "## Відрегулювання розташування текстового поля."
+    new "## Реґуляція розташування текстового поля."
 
     # gui/game/gui.rpy:441
     old "## Change the size and spacing of various things."
