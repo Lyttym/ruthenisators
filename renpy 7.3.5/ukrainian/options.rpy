@@ -116,7 +116,7 @@ translate ukrainian strings:
 
     # gui/game/options.rpy:135
     old "## Save directory"
-    new "## Путь для збереження"
+    new "## Каталог для збереження"
 
     # gui/game/options.rpy:137
     old "## Controls the platform-specific place Ren'Py will place the save files for this game. The save files will be placed in:"
@@ -156,7 +156,7 @@ translate ukrainian strings:
 
     # gui/game/options.rpy:166
     old "## The following functions take file patterns. File patterns are case- insensitive, and matched against the path relative to the base directory, with and without a leading /. If multiple patterns match, the first is used."
-    new "## Вказані тут функції є файловими зразками. Ці зразки є нечутливими до регістру та починаються з відносного шляху основної папки, з чи без знаку /. Якщо спрацьовують кілька зразків, використовується перший з них ???."
+    new "## Вказані тут функції є файловими зразками. Ці зразки є нечутливими до реєстру та починаються з відносного шляху основного каталогу, з чи без знаку /. Якщо спрацьовують кілька зразків, використовується перший з них ???."
 
     # gui/game/options.rpy:171
     old "## In a pattern:"
@@ -164,15 +164,15 @@ translate ukrainian strings:
 
     # gui/game/options.rpy:173
     old "## / is the directory separator."
-    new "## / розділяє папки."
+    new "## / розділяє каталоги."
 
     # gui/game/options.rpy:175
     old "## * matches all characters, except the directory separator."
-    new "## * відповідає усім знакам, окрім розділителя папок."
+    new "## * відповідає усім знакам, окрім розділювача каталогів."
 
     # gui/game/options.rpy:177
     old "## ** matches all characters, including the directory separator."
-    new "## ** відповідає усім знакам, навіть розділитель папок."
+    new "## ** відповідає усім знакам, навіть розділювач каталогів."
 
     # gui/game/options.rpy:179
     old "## For example, \"*.txt\" matches txt files in the base directory, \"game/**.ogg\" matches ogg files in the game directory or any of its subdirectories, and \"**.psd\" matches psd files anywhere in the project."
@@ -180,7 +180,7 @@ translate ukrainian strings:
 
     # gui/game/options.rpy:183
     old "## Classify files as None to exclude them from the built distributions."
-    new "## Позначаючи файли як None, ви виключите їх із зібраного дистрибутива ???."
+    new "## Позначайте файли як None, щоб виключити їх з зібраного дистрибутива."
 
     # gui/game/options.rpy:191
     old "## To archive files, classify them as 'archive'."
@@ -188,7 +188,7 @@ translate ukrainian strings:
 
     # gui/game/options.rpy:196
     old "## Files matching documentation patterns are duplicated in a mac app build, so they appear in both the app and the zip file."
-    new "## Файли на зразок документації подвоюються у збірці додатку для mac, тому вони з'являтимуться і в додатку, і у zip-файлі."
+    new "## Файли на зразок документації подвоюються у збірці застосунку для mac, тому вони з'являтимуться і в застосунку, і у zip-файлі."
 
     # gui/game/options.rpy:202
     old "## Set this to a string containing your Apple Developer ID Application to enable codesigning on the Mac. Be sure to change it to your own Apple-issued ID."

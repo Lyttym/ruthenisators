@@ -28,7 +28,7 @@ translate ukrainian strings:
 
     # gui/game/screens.rpy:114
     old "## If there's a side image, display it above the text. Do not display on the phone variant - there's no room."
-    new "## Якщо є бічне зображення, виведіть його над текстом. Не показуйте варіант телефону - немає місця ???."
+    new "## Якщо є бічне зображення, виводить його над текстом. Не показується на варіанті телефону - немає місця."
 
     # gui/game/screens.rpy:120
     old "## Make the namebox available for styling through the Character object."
@@ -84,7 +84,7 @@ translate ukrainian strings:
 
     # gui/game/screens.rpy:257
     old "History"
-    new "Дієпис"
+    new "Історія"
 
     # gui/game/screens.rpy:258
     old "Skip"
@@ -92,7 +92,7 @@ translate ukrainian strings:
 
     # gui/game/screens.rpy:259
     old "Auto"
-    new "Самочинно"
+    new "Автоматично"
 
     # gui/game/screens.rpy:260
     old "Save"
@@ -108,11 +108,11 @@ translate ukrainian strings:
 
     # gui/game/screens.rpy:263
     old "Prefs"
-    new "Настройки"
+    new "Налаштування"
 
     # gui/game/screens.rpy:266
     old "## This code ensures that the quick_menu screen is displayed in-game, whenever the player has not explicitly hidden the interface."
-    new "## Цей код гарантує, що екран швидкого меню відображатиметься в грі, коли гравець не приховував явно інтерфейс ???."
+    new "## Цей код ґарантує, що екран швидкого меню відображатиметься в грі, коли гравець не приховував явно інтерфейс ???."
 
     # gui/game/screens.rpy:284
     old "## Main and Game Menu Screens"
@@ -120,11 +120,11 @@ translate ukrainian strings:
 
     # gui/game/screens.rpy:287
     old "## Navigation screen"
-    new "## Навігаційний екран"
+    new "## Навіґаційний екран"
 
     # gui/game/screens.rpy:289
     old "## This screen is included in the main and game menus, and provides navigation to other menus, and to start the game."
-    new "## Цей екран включений в основне та ігрове меню і забезпечує навігацію до інших меню і запуск гри."
+    new "## Цей екран включений в основне та ігрове меню і забезпечує навіґацію до інших меню і запуск гри."
 
     # gui/game/screens.rpy:304
     old "Start"
@@ -160,7 +160,7 @@ translate ukrainian strings:
 
     # gui/game/screens.rpy:331
     old "## The quit button is banned on iOS and unnecessary on Android."
-    new "## Кнопка виходу заборонена на iOS та непотрібна на Android ???."
+    new "## Кнопка виходу заборонена на iOS та непотрібна на Android."
 
     # gui/game/screens.rpy:332
     old "Quit"
@@ -172,7 +172,7 @@ translate ukrainian strings:
 
     # gui/game/screens.rpy:348
     old "## Used to display the main menu when Ren'Py starts."
-    new "## Використовується для відображення головного меню при запуску Ren'Py."
+    new "## Використовується для відображення головного меню під час запуску Ren'Py."
 
     # gui/game/screens.rpy:350
     old "## https://www.renpy.org/doc/html/screen_special.html#main-menu"
@@ -188,7 +188,7 @@ translate ukrainian strings:
 
     # gui/game/screens.rpy:365
     old "## The use statement includes another screen inside this one. The actual contents of the main menu are in the navigation screen."
-    new "## Заява про використання включає ще один екран всередині цього. Фактичний вміст головного меню знаходиться на екрані навігації ???."
+    new "## Заява про використання включає ще один екран всередині цього. Фактичний вміст головного меню знаходиться на екрані навіґації ???."
 
     # gui/game/screens.rpy:408
     old "## Game Menu screen"
@@ -196,7 +196,7 @@ translate ukrainian strings:
 
     # gui/game/screens.rpy:410
     old "## This lays out the basic common structure of a game menu screen. It's called with the screen title, and displays the background, title, and navigation."
-    new "## Тут викладається основна загальна структура екрана меню гри. Він називається заголовок екрана та відображає тло, заголовок та навігацію ???."
+    new "## Тут викладається основна загальна структура екрана меню гри. Він називається заголовок екрана та відображає тло, заголовок та навіґацію ???."
 
     # gui/game/screens.rpy:413
     old "## The scroll parameter can be None, or one of \"viewport\" or \"vpgrid\". When this screen is intended to be used with one or more children, which are transcluded (placed) inside it."
@@ -204,7 +204,7 @@ translate ukrainian strings:
 
     # gui/game/screens.rpy:431
     old "## Reserve space for the navigation section."
-    new "## Зарезервуйте простір для навігаційної частини ???."
+    new "## Зарезервуйте простір для навіґаційної частини ???."
 
     # gui/game/screens.rpy:473
     old "Return"
@@ -396,7 +396,7 @@ translate ukrainian strings:
 
     # gui/game/screens.rpy:876
     old "## History screen"
-    new "## History screen"
+    new "## Екран історії"
 
     # gui/game/screens.rpy:878
     old "## This is a screen that displays the dialogue history to the player. While there isn't anything special about this screen, it does have to access the dialogue history stored in _history_list."
@@ -420,7 +420,7 @@ translate ukrainian strings:
 
     # gui/game/screens.rpy:918
     old "The dialogue history is empty."
-    new "Дієпис розмов порожній."
+    new "Історія розмов порожня."
 
     # gui/game/screens.rpy:921
     old "## This determines what tags are allowed to be displayed on the history screen."
@@ -444,7 +444,7 @@ translate ukrainian strings:
 
     # gui/game/screens.rpy:993
     old "Gamepad"
-    new "Геймпад ???"
+    new "Ґеймпад"
 
     # gui/game/screens.rpy:1006
     old "Enter"
@@ -456,7 +456,7 @@ translate ukrainian strings:
 
     # gui/game/screens.rpy:1010
     old "Space"
-    new "Проґалина"
+    new "Прогалина"
 
     # gui/game/screens.rpy:1011
     old "Advances dialogue without selecting choices."
@@ -468,7 +468,7 @@ translate ukrainian strings:
 
     # gui/game/screens.rpy:1015
     old "Navigate the interface."
-    new "Навігація по інтерфейсу."
+    new "Навіґація по інтерфейсу."
 
     # gui/game/screens.rpy:1018
     old "Escape"
@@ -536,7 +536,7 @@ translate ukrainian strings:
 
     # gui/game/screens.rpy:1065
     old "Mouse Wheel Up\nClick Rollback Side"
-    new "Коліщатко миші вгору\nКлац по коліщатку ???"
+    new "Коліщатко миші вгору\nКлац по коліщатку"
 
     # gui/game/screens.rpy:1069
     old "Mouse Wheel Down"
@@ -544,43 +544,43 @@ translate ukrainian strings:
 
     # gui/game/screens.rpy:1076
     old "Right Trigger\nA/Bottom Button"
-    new "Правий джойстик\nA/Нижня кнопка ???"
+    new "Правий джойстик\nA/Нижня кнопка"
 
     # gui/game/screens.rpy:1080
     old "Left Trigger\nLeft Shoulder"
-    new "Left Trigger\nLeft Shoulder"
+    new "Лівий джойстик\nЛіве плечико"
 
     # gui/game/screens.rpy:1084
     old "Right Shoulder"
-    new "Right Shoulder ???"
+    new "Праве плечико"
 
     # gui/game/screens.rpy:1089
     old "D-Pad, Sticks"
-    new "D-Pad, Sticks ???"
+    new "Хрестовина, Стіки"
 
     # gui/game/screens.rpy:1093
     old "Start, Guide"
-    new "Start, Guide ???"
+    new "Start, Guide"
 
     # gui/game/screens.rpy:1097
     old "Y/Top Button"
-    new "Y/Top Buttonт ???"
+    new "Y/Верхня кнопка"
 
     # gui/game/screens.rpy:1100
     old "Calibrate"
-    new "Відкалібрувати ???"
+    new "Вивіряти"
 
     # gui/game/screens.rpy:1128
     old "## Additional screens"
-    new "## Additional screens"
+    new "## Додаткові екрани"
 
     # gui/game/screens.rpy:1132
     old "## Confirm screen"
-    new "## Confirm screen"
+    new "## Екран підтвердження"
 
     # gui/game/screens.rpy:1134
     old "## The confirm screen is called when Ren'Py wants to ask the player a yes or no question."
-    new "## The confirm screen is called when Ren'Py wants to ask the player a yes or no question."
+    new "## Екран підтвердження викликається, коли Ren'Py хоче поставити гравцеві питання \"так\" чи \"ні\"."
 
     # gui/game/screens.rpy:1137
     old "## https://www.renpy.org/doc/html/screen_special.html#confirm"
@@ -588,7 +588,7 @@ translate ukrainian strings:
 
     # gui/game/screens.rpy:1141
     old "## Ensure other screens do not get input while this screen is displayed."
-    new "## Ensure other screens do not get input while this screen is displayed."
+    new "## Переконайтесь, що під час відображення цього екрана інші екрани не відображаються."
 
     # gui/game/screens.rpy:1165
     old "Yes"
@@ -600,15 +600,15 @@ translate ukrainian strings:
 
     # gui/game/screens.rpy:1168
     old "## Right-click and escape answer \"no\"."
-    new "## Right-click and escape answer \"no\"."
+    new "## Права кнопка миші та escape є відповіддю \"ні\"."
 
     # gui/game/screens.rpy:1195
     old "## Skip indicator screen"
-    new "## Skip indicator screen"
+    new "## Екран покажчика пропуску"
 
     # gui/game/screens.rpy:1197
     old "## The skip_indicator screen is displayed to indicate that skipping is in progress."
-    new "## The skip_indicator screen is displayed to indicate that skipping is in progress."
+    new "## Екран skip_indicator (покажчика пропуску) відображається, щоб вказати, що пропуск триває."
 
     # gui/game/screens.rpy:1200
     old "## https://www.renpy.org/doc/html/screen_special.html#skip-indicator"
@@ -620,19 +620,19 @@ translate ukrainian strings:
 
     # gui/game/screens.rpy:1219
     old "## This transform is used to blink the arrows one after another."
-    new "## This transform is used to blink the arrows one after another."
+    new "## Це перетворення використовується для миготіння стрілок одна за одною."
 
     # gui/game/screens.rpy:1246
     old "## We have to use a font that has the BLACK RIGHT-POINTING SMALL TRIANGLE glyph in it."
-    new "## We have to use a font that has the BLACK RIGHT-POINTING SMALL TRIANGLE glyph in it."
+    new "## Нам потрібно використовувати шрифт, що має символ U+25B8 (стрілка вище)."
 
     # gui/game/screens.rpy:1251
     old "## Notify screen"
-    new "## Notify screen"
+    new "## Екран сповіщень"
 
     # gui/game/screens.rpy:1253
     old "## The notify screen is used to show the player a message. (For example, when the game is quicksaved or a screenshot has been taken.)"
-    new "## The notify screen is used to show the player a message. (For example, when the game is quicksaved or a screenshot has been taken.)"
+    new "## Екран сповіщень використовується, щоб показати гравцеві сповіщення. (Наприклад, коли гра самозбереглася, або був зроблений зняток екрану)"
 
     # gui/game/screens.rpy:1256
     old "## https://www.renpy.org/doc/html/screen_special.html#notify-screen"
@@ -640,11 +640,11 @@ translate ukrainian strings:
 
     # gui/game/screens.rpy:1290
     old "## NVL screen"
-    new "## NVL screen"
+    new "## Екран NVL"
 
     # gui/game/screens.rpy:1292
     old "## This screen is used for NVL-mode dialogue and menus."
-    new "## This screen is used for NVL-mode dialogue and menus."
+    new "## Цей екран використовується для розмов та меню режиму NVL."
 
     # gui/game/screens.rpy:1294
     old "## https://www.renpy.org/doc/html/screen_special.html#nvl"
@@ -652,23 +652,23 @@ translate ukrainian strings:
 
     # gui/game/screens.rpy:1305
     old "## Displays dialogue in either a vpgrid or the vbox."
-    new "## Displays dialogue in either a vpgrid or the vbox."
+    new "## Показує розмову в vpgrid чи vbox."
 
     # gui/game/screens.rpy:1318
     old "## Displays the menu, if given. The menu may be displayed incorrectly if config.narrator_menu is set to True, as it is above."
-    new "## Displays the menu, if given. The menu may be displayed incorrectly if config.narrator_menu is set to True, as it is above."
+    new "## Показує меню, якщо є. Меню може показувати некоректно, якщо config.narrator_menu встановлено на True."
 
     # gui/game/screens.rpy:1348
     old "## This controls the maximum number of NVL-mode entries that can be displayed at once."
-    new "## This controls the maximum number of NVL-mode entries that can be displayed at once."
+    new "## Це керує щонайбільшою кількістю записів у режимі NVL, які можуть відображатися одночасно."
 
     # gui/game/screens.rpy:1410
     old "## Mobile Variants"
-    new "## Mobile Variants"
+    new "## Мобільні варіанти"
 
     # gui/game/screens.rpy:1417
     old "## Since a mouse may not be present, we replace the quick menu with a version that uses fewer and bigger buttons that are easier to touch."
-    new "## Since a mouse may not be present, we replace the quick menu with a version that uses fewer and bigger buttons that are easier to touch."
+    new "## Якщо миша може не використовуватися, ми замінили швидке меню версією, що використовує менше кнопок, але великих за розміром, щоб їх було легше натискати.."
 
     # gui/game/screens.rpy:1435
     old "Menu"
@@ -680,5 +680,5 @@ translate ukrainian strings:
 
     # gui/game/screens.rpy:333
     old "## The quit button is banned on iOS and unnecessary on Android and Web."
-    new ""
+    new "Кнопка виходу заборонена на iOS та непотрібна в Android і Web"
 

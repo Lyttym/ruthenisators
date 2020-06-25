@@ -176,7 +176,7 @@ translate ukrainian strings:
 
     # game/androidstrings.rpy:7
     old "{} is not a directory."
-    new "{} не є каталоґом."
+    new "{} не є каталогом."
 
     # game/androidstrings.rpy:8
     old "{} does not contain a Ren'Py game."
@@ -440,7 +440,7 @@ translate ukrainian strings:
 
     # game/choose_directory.rpy:106
     old "The selected projects directory is not writable."
-    new "Вибраний каталоґ проєктів не підлягає запису."
+    new "Вибраний каталог проєктів не підлягає запису."
 
     # game/choose_theme.rpy:303
     old "Could not change the theme. Perhaps options.rpy was changed too much."
@@ -536,7 +536,7 @@ translate ukrainian strings:
 
     # game/distribute_gui.rpy:171
     old "Directory Name:"
-    new "Назва каталоґу:"
+    new "Назва каталогу:"
 
     # game/distribute_gui.rpy:175
     old "Executable Name:"
@@ -580,7 +580,7 @@ translate ukrainian strings:
 
     # game/distribute_gui.rpy:242
     old "Force Recompile"
-    new "Примусово пере-компілювати"
+    new "Примусово рекомпілювати"
 
     # game/distribute_gui.rpy:246
     old "Build"
@@ -600,11 +600,11 @@ translate ukrainian strings:
 
     # game/dmgcheck.rpy:50
     old "Ren'Py is running from a read only folder. Some functionality will not work."
-    new "Ren'Py працює з каталоґами лише для читання. Деякі можливості не працюватимуть."
+    new "Ren'Py працює з каталогами лише для читання. Деякі можливості не працюватимуть."
 
     # game/dmgcheck.rpy:50
     old "This is probably because Ren'Py is running directly from a Macintosh drive image. To fix this, quit this launcher, copy the entire %s folder somewhere else on your computer, and run Ren'Py again."
-    new "Це, мабуть, тому, що Ren'Py працює безпосередньо із образом диска Macintosh. Щоб виправити це, закрийте цей запускач, скопіюйте всю %s папку де-небудь ще на Вашому обчислювач та знову запустіть Ren'Py."
+    new "Це, мабуть, тому, що Ren'Py працює безпосередньо із образом диска Macintosh. Щоб виправити це, закрийте цей запускач, скопіюйте весь %s каталог де-небудь ще на Вашому обчислювач та знову запустіть Ren'Py."
 
     # game/editor.rpy:152
     old "(Recommended) A modern and approachable text editor."
@@ -648,7 +648,7 @@ translate ukrainian strings:
 
     # game/editor.rpy:219
     old "Invokes the editor your operating system has associated with .rpy files."
-    new "Викликає редактор, у якому Ваша орудна система пов’язана з файлами .rpy."
+    new "Викликає редактор, у якому Ваша операційна система пов’язана з файлами .rpy."
 
     # game/editor.rpy:235
     old "None"
@@ -716,7 +716,7 @@ translate ukrainian strings:
 
     # game/front_page.rpy:190
     old "Open Directory"
-    new "Відкрити папку"
+    new "Відкрити каталог"
 
     # game/front_page.rpy:195
     old "game"
@@ -792,7 +792,7 @@ translate ukrainian strings:
 
     # game/front_page.rpy:253
     old "Generate Translations"
-    new "Ґенерувати переклади"
+    new "Утворити переклади"
 
     # game/front_page.rpy:254
     old "Extract Dialogue"
@@ -908,7 +908,7 @@ translate ukrainian strings:
 
     # game/interface.rpy:264
     old "Due to package format limitations, non-ASCII file and directory names are not allowed."
-    new "Через обмеження формату пакунку, не-ASCII імена файлів та каталоґів заборонені."
+    new "Через обмеження формату пакунку, не-ASCII імена файлів та каталогів заборонені."
 
     # game/interface.rpy:360
     old "ERROR"
@@ -932,11 +932,11 @@ translate ukrainian strings:
 
     # game/interface.rpy:432
     old "File and directory names may not contain / or \\."
-    new "Назви файлів і каталоґів можуть не містити / або \\."
+    new "Назви файлів і каталогів можуть не містити / або \\."
 
     # game/interface.rpy:438
     old "File and directory names must consist of ASCII characters."
-    new "Назви файлів і каталоґів повинні складатися зі знаків ASCII."
+    new "Назви файлів і каталогів повинні складатися зі знаків ASCII."
 
     # game/interface.rpy:506
     old "PROCESSING"
@@ -1424,11 +1424,11 @@ translate ukrainian strings:
 
     # game/translations.rpy:380
     old "Strip text tags from the dialogue."
-    new "Скласти текстові теги з розмов."
+    new "Скласти текстові мітки з розмов."
 
     # game/translations.rpy:381
     old "Escape quotes and other special characters."
-    new "Втечі цитати та інші спеціальні символи ???."
+    new "Включати лапки та інші реґулярні вирази."
 
     # game/translations.rpy:382
     old "Extract all translatable strings, not just dialogue."
